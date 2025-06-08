@@ -1,7 +1,7 @@
 # mediatheque_numerique_export
 > Programme Python qui permet d'exporter les films présents sur le site de la [Médiathèque numérique](mediatheque-numerique.com), dans le but d'en faire une [liste Letterboxd](https://letterboxd.com/clement_chn/list/films-sur-la-mediatheque-numerique/).
 
-## Table des matières
+## Table of Contents
 * [General Information](#general-information)
   * [En français](#en-français)
   * [In English](#in-english)
