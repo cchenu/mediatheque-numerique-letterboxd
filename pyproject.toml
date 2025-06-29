@@ -1,0 +1,137 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mediatheque_numerique_extract"
+version = "1.0.0"
+description = "Exporte les films présents sur le site de la Médiathèque numérique, dans le but d'en faire une liste Letterboxd"
+authors = [{ name = "cchenu" }]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "certifi>=2025.4.26",
+    "charset-normalizer>=3.4.2",
+    "idna>=3.10",
+    "numpy>=2.3.0",
+    "pandas>=2.3.0",
+    "python-dateutil>=2.9.0.post0",
+    "pytz>=2025.2",
+    "requests>=2.32.3",
+    "six>=1.17.0",
+    "tzdata>=2025.2",
+    "urllib3>=2.4.0"
+]
+
+[project.urls]
+homepage = "https://github.com/cchenu/mediatheque_numerique_export"
+documentation = "https://github.com/cchenu/mediatheque_numerique_export"
+repository = "https://github.com/cchenu/mediatheque_numerique_export"
+
+[tool.ruff]
+line-length = 79
+target-version = "py312"
+fix = true
+extend-exclude = ["venv"]
+
+[tool.ruff.lint]
+unfixable = []
+select = [
+    "AIR",  # Airflow
+    "ERA",  # eradicate
+    "FAST", # FastAPI
+    "YTT",  # flake8-2020
+    "ANN",  # flake8-annotations
+    "ASYNC",# flake8-async
+    "S",    # flake8-bandit
+    "B",    # flake8-bugbear
+    "BLE",  # flake8-blind-except
+    "A",    # flake8-builtins
+    "COM",  # flake8-commas
+    "C4",   # flake8-comprehensions
+    "DTZ",  # flake8-datetimez
+    "T10",  # flake8-debugger
+    "DJ",   # flake8-django
+    "EM",   # flake8-errmsg
+    "EXE",  # flake8-executable
+    "FIX",  # flake8-fixme
+    "INT",  # flake8-gettext
+    "ISC",  # flake8-implicit-str-concat
+    "ICN",  # flake8-import-conventions
+    "LOG",  # flake8-logging
+    "G",    # flake8-logging-format
+    "INP",  # flake8-no-pep420
+    "PIE",  # flake8-pie
+    "T20",  # flake8-print
+    "PYI",  # flake8-pyi
+    "PT",   # flake8-pytest-style
+    "Q",    # flake8-quotes
+    "RSE",  # flake8-raise
+    "RET",  # flake8-return
+    "SLF",  # flake8-self
+    "SIM",  # flake8-simplify
+    "SLOT", # flake8-slots
+    "TID",  # flake8-tidy-imports
+    "TD",   # flake8-todos
+    "TC",   # flake8-type-checking
+    "ARG",  # flake8-unused-arguments
+    "PTH",  # flake8-use-pathlib
+    "FLY",  # flynt
+    "I",    # isort
+    "NPY",  # NumPy-specific rules
+    "PD",   # pandas-vet
+    "N",    # pep8-naming
+    "PERF", # Perflint
+    "E",    # pycodestyle (errors)
+    "W",    # pycodestyle (warnings)
+    "D",    # pydocstyle
+    "F",    # Pyflakes
+    "PGH",  # pygrep-hooks
+    "PL",   # Pylint
+    "UP",   # pyupgrade
+    "FURB", # refurb
+    "RUF",  # Ruff-specific rules
+    "TRY"   # tryceratops
+]
+
+ignore = [
+  # Too many arguments to function call
+  "PLR0913",
+  # Too many returns
+  "PLR0911",
+  # Too many branches
+  "PLR0912",
+  # Too many locals
+  "PLR0914",
+  # Too many statements
+  "PLR0915",
+  # incorrect-blank-line-before-class
+  "D203",
+  # multi-line-summary-first-line
+  "D212",
+  # missing-trailing-comma
+  "COM812"
+]
+
+[tool.ruff.format]
+docstring-code-format = true
+quote-style = "preserve"
+
+[tool.black]
+line-length = 79
+target-version = ["py312"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+ignore_missing_imports = true
+warn_unused_configs = true
+warn_unused_ignores = true
+warn_return_any = true
+show_error_codes = true
+pretty = true
+exclude = "^venv/"
+
+[tool.isort]
+profile = "black"

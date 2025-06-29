@@ -8,12 +8,14 @@ import requests
 
 
 def load_data() -> list[dict[str, Any]]:
-    """Get all data in the Cinéma category from the Médiathèque numérique.
+    """
+    Get all data in the Cinéma category from the Médiathèque numérique.
 
     Returns
     -------
     list[dict[str, Any]]
         Data for each film from the Médiathèque numérique.
+
     """
     url = "https://vod.mediatheque-numerique.com/api/proxy/api/product/search"
 
@@ -35,7 +37,8 @@ def load_data() -> list[dict[str, Any]]:
 
     response = requests.post(url, headers=headers, json=payload, timeout=5)
 
-    while response.status_code == 200:
+    code_success = 200
+    while response.status_code == code_success:
         data.extend(response.json()["content"]["products"]["content"])
         payload["pageNumber"] += 1
         response = requests.post(url, headers=headers, json=payload, timeout=5)
@@ -43,7 +46,8 @@ def load_data() -> list[dict[str, Any]]:
 
 
 def decompose(row: pd.Series) -> tuple[str, str, int | None]:
-    """Decompose Title into Title, Directors, and Year when applicable.
+    """
+    Decompose Title into Title, Directors, and Year when applicable.
 
     Parameters
     ----------
@@ -54,6 +58,7 @@ def decompose(row: pd.Series) -> tuple[str, str, int | None]:
     -------
     tuple[str, str, int | None]
         New data for Title, Directors and Year.
+
     """
     if not pd.isna(row["Year"]):
         if isinstance(row["Directors"], list):
@@ -74,7 +79,7 @@ def decompose(row: pd.Series) -> tuple[str, str, int | None]:
 def create_csv() -> None:
     """Create all_films.csv with films from the Médiathèque numérique."""
     data = load_data()
-    df = pd.DataFrame(data)[
+    df_films = pd.DataFrame(data)[
         [
             "title",
             "directors",
@@ -84,30 +89,41 @@ def create_csv() -> None:
             "duration",
         ]
     ]
-    df = df[df["productType"] == "PROGRAM"].drop("productType", axis="columns")
+    df_films = df_films[df_films["productType"] == "PROGRAM"].drop(
+        "productType", axis="columns"
+    )
 
-    df = df[df["seasonsCount"] == 0].drop("seasonsCount", axis="columns")
+    df_films = df_films[df_films["seasonsCount"] == 0].drop(
+        "seasonsCount", axis="columns"
+    )
 
-    df = df[df["duration"] > 3000].drop("duration", axis="columns")
+    duration_mini = 3000
+    df_films = df_films[df_films["duration"] > duration_mini].drop(
+        "duration", axis="columns"
+    )
 
-    df.columns = ["Title", "Directors", "Year"]
+    df_films.columns = ["Title", "Directors", "Year"]
 
-    df[["Title", "Directors", "Year"]] = df.apply(
+    df_films[["Title", "Directors", "Year"]] = df_films.apply(
         decompose, axis=1, result_type="expand"
     )
 
-    df["Year"] = df["Year"].astype("Int64")
+    df_films["Year"] = df_films["Year"].astype("Int64")
 
-    df = df[~df["Title"].str.contains(r"[sS]aison \d", regex=True)]
+    df_films = df_films[
+        ~df_films["Title"].str.contains(r"[sS]aison \d", regex=True)
+    ]
 
     pattern_version = r"\-*\(*\s*(?:V|v)ersion (?:restaurée|longue|cinéma)\)*"
-    df["Title"] = df["Title"].str.replace(pattern_version, "", regex=True)
+    df_films["Title"] = df_films["Title"].str.replace(
+        pattern_version, "", regex=True
+    )
 
-    df["Title"] = df["Title"].str.replace("' ", "'").str.strip()
+    df_films["Title"] = df_films["Title"].str.replace("' ", "'").str.strip()
 
-    df = df.drop_duplicates()
+    df_films = df_films.drop_duplicates()
 
-    df.to_csv("all_films.csv", index=False)
+    df_films.to_csv("all_films.csv", index=False)
 
 
 if __name__ == "__main__":
