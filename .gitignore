@@ -163,3 +163,5 @@ requirements.in
 .vscode
 
 *.ruff_cache
+
+check.bat
