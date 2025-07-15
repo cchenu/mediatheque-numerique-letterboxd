@@ -55,7 +55,7 @@ Or just run main.py in your IDE.
 
 
 ## Project Status
-Project is: _complete_ - version 2.0.0.
+Project is: _complete_ - version 2.0.1.
 
 
 ## Contact

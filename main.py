@@ -10,6 +10,7 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 from selenium import webdriver
+from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -31,6 +32,12 @@ def load_raw_data(
 ) -> list[dict[str, Any]]:
     """
     Get all data in the Cinema category from the Mediatheque numerique.
+
+    Parameters
+    ----------
+    sort_by : Literal["PUBLICATION_DATE", "TITLE"]
+        Sort the data by publication date or title. TITLE is used to be sure to
+        get all films, PUBLICATION_DATE can miss some films.
 
     Returns
     -------
@@ -56,13 +63,17 @@ def load_raw_data(
 
     data: list[dict[str, Any]] = []
 
-    response = requests.post(url, headers=headers, json=payload, timeout=5)
+    response = requests.post(
+        url, headers=headers, json=payload, timeout=(5, 30)
+    )
 
     code_success = 200
     while response.status_code == code_success:
         data.extend(response.json()["content"]["products"]["content"])
         payload["pageNumber"] += 1
-        response = requests.post(url, headers=headers, json=payload, timeout=5)
+        response = requests.post(
+            url, headers=headers, json=payload, timeout=(5, 30)
+        )
     return data
 
 
@@ -97,7 +108,20 @@ def decompose(row: pd.Series) -> tuple[str, str, int | None]:
 
 
 def create_csv(sort_by: Literal["PUBLICATION_DATE", "TITLE"]) -> pd.DataFrame:
-    """Create all_films.csv with films from the Mediatheque numerique."""
+    """
+    Create all_films.csv with films from the Mediatheque numerique.
+
+    Parameters
+    ----------
+    sort_by : Literal["PUBLICATION_DATE", "TITLE"]
+        Sort the data by publication date or title. TITLE is used to be sure to
+        get all films, PUBLICATION_DATE can miss some films.
+
+    Returns
+    -------
+    pd.DataFrame
+        DataFrame containing all films from the Mediatheque numerique.
+    """
     logger.info("Fetching data from the Mediatheque numerique...")
     data = load_raw_data(sort_by)
     df_films = pd.DataFrame(data)[
@@ -203,7 +227,7 @@ def import_list(change_all: bool) -> None:
     )
     upload_input.send_keys(str(Path("temp_films_import.csv").resolve()))
 
-    WebDriverWait(driver, 2 * 60 * 60).until(
+    WebDriverWait(driver, 60 * 60 * 2).until(
         lambda d: "import-button-disabled"
         not in (
             d.find_element(
@@ -224,6 +248,28 @@ def import_list(change_all: bool) -> None:
     button_save = WebDriverWait(driver, 60).until(
         EC.element_to_be_clickable((By.ID, "list-edit-save"))
     )
+
+    if not change_all:  # Put new films at the beginning
+        film_elements = driver.find_elements(
+            By.CSS_SELECTOR, "li.film-list-entry[data-film-id]"
+        )
+
+        # Id of the film we want at the last position
+        last_film_id = "78pm"
+        actions = ActionChains(driver)
+
+        first_element = film_elements[0]
+        for film_element in film_elements[::-1]:
+            if film_element.get_attribute("data-film-id") == last_film_id:
+                break
+            driver.execute_script(
+                "arguments[0].scrollIntoView({block: 'center'});", film_element
+            )
+            actions.click_and_hold(film_element).move_to_element(
+                first_element
+            ).pause(0.5).release().perform()
+            first_element = film_element
+
     driver.execute_script("arguments[0].click();", button_save)
 
     WebDriverWait(driver, 60).until(
@@ -256,7 +302,7 @@ def main() -> None:
     new_data_complete = create_csv("TITLE")
     while True:
         new_data_sorted = create_csv("PUBLICATION_DATE")
-        if len(new_data_sorted) == len(new_data_complete):
+        if len(new_data_sorted) >= len(new_data_complete):
             break
 
     added_films = new_data_sorted[~new_data_sorted["ID"].isin(old_data["ID"])]
