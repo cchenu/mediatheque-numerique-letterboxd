@@ -4,16 +4,23 @@ import logging
 import os
 import re
 from pathlib import Path
-from typing import Any, Literal
+from typing import TYPE_CHECKING, Literal
 
 import pandas as pd
 import requests
 from dotenv import load_dotenv
 from selenium import webdriver
+from selenium.common.exceptions import WebDriverException
 from selenium.webdriver import ActionChains
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+
+from type_defs import DataMediatheque
+
+if TYPE_CHECKING:
+    from type_defs import JsonMediatheque, Payload
 
 logging.basicConfig(
     level=logging.INFO,
@@ -29,7 +36,7 @@ logger = logging.getLogger(__name__)
 
 def load_raw_data(
     sort_by: Literal["PUBLICATION_DATE", "TITLE"],
-) -> list[dict[str, Any]]:
+) -> list[DataMediatheque]:
     """
     Get all data in the Cinema category from the Mediatheque numerique.
 
@@ -41,7 +48,7 @@ def load_raw_data(
 
     Returns
     -------
-    list[dict[str, Any]]
+    list[DataMediatheque]
         Data for each film from the Mediatheque numerique.
     """
     url = "https://vod.mediatheque-numerique.com/api/proxy/api/product/search"
@@ -51,7 +58,7 @@ def load_raw_data(
         "Accept": "application/json",
     }
 
-    payload: dict[str, Any] = {
+    payload: Payload = {
         "withAggregations": True,
         "includedProductCategoriesUuids": [
             "5fcf8750-bada-442c-84b4-fe05b949fba2"
@@ -61,7 +68,7 @@ def load_raw_data(
         "pageSize": 1000,
     }
 
-    data: list[dict[str, Any]] = []
+    data: list[DataMediatheque] = []
 
     response = requests.post(
         url, headers=headers, json=payload, timeout=(5, 30)
@@ -69,7 +76,8 @@ def load_raw_data(
 
     code_success = 200
     while response.status_code == code_success:
-        data.extend(response.json()["content"]["products"]["content"])
+        json_response: JsonMediatheque = response.json()
+        data.extend(json_response["content"]["products"]["content"])
         payload["pageNumber"] += 1
         response = requests.post(
             url, headers=headers, json=payload, timeout=(5, 30)
@@ -191,8 +199,15 @@ def import_list(change_all: bool) -> None:
     ------
     ValueError
         Raise if credientials are not set in .env file.
+    WebDriverException
+        Raise if Letterboxd has an error during import.
     """
-    driver = webdriver.Chrome()
+    options = Options()
+    options.add_argument("--log-level=3")
+    options.add_argument("--disable-background-networking")
+    options.add_argument("--disable-sync")
+
+    driver = webdriver.Chrome(options=options)
 
     driver.get("https://letterboxd.com/sign-in")
     WebDriverWait(driver, 10).until(
@@ -228,19 +243,29 @@ def import_list(change_all: bool) -> None:
     upload_input.send_keys(str(Path("temp_films_import.csv").resolve()))
 
     WebDriverWait(driver, 60 * 60 * 2).until(
-        lambda d: "import-button-disabled"
-        not in (
-            d.find_element(
-                By.CLASS_NAME, "add-import-films-to-list"
-            ).get_attribute("class")
-            or ""
+        EC.presence_of_element_located(
+            (
+                By.CSS_SELECTOR,
+                ".add-import-films-to-list:not(.import-button-disabled), "
+                ".jnotify-message",
+            ),
         )
     )
 
+    message = driver.find_elements(By.CSS_SELECTOR, ".jnotify-message")
+    if message and "Oh no!" in message[0].text:
+        driver.quit()
+        msg = "Error in letterboxd during import."
+        raise WebDriverException(msg)
+
     if change_all:
-        driver.find_element(
-            By.CSS_SELECTOR, "label[for='replace-original'] .substitute"
-        ).click()
+        element = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "label[for='replace-original'] .substitute")
+            )
+        )
+
+        driver.execute_script("arguments[0].click();", element)
 
     button_match = driver.find_element(By.CLASS_NAME, "submit-matched-films")
     driver.execute_script("arguments[0].click();", button_match)
@@ -289,13 +314,18 @@ def main() -> None:
         response = requests.get("https://ipinfo.io/json", timeout=5)
     except requests.ConnectionError:
         response = requests.get("https://ipinfo.io/json", timeout=5)
-    data = response.json()
-    if data["country"] != "FR":
+    data: dict[str, str] = response.json()
+    if "country" in data and data["country"] != "FR":
         logger.warning(
             "This script must be run in France. You are currently in %s",
             data["country"],
         )
         return
+    if "country" not in data:
+        logger.info(
+            "Impossible to check the IP country, can have unexpected behavior"
+            " if you are not in France."
+        )
 
     old_data = pd.read_csv(Path(__file__).parent / "all_films.csv")
 
@@ -340,6 +370,26 @@ def main() -> None:
     try:
         import_list(change_all)
         logger.info("List imported successfully.")
+    except WebDriverException:
+        if change_all:
+            logger.info(
+                "Error during a complete import, only new films will be "
+                "imported."
+            )
+            change_all = False
+            added_films.drop("ID", axis="columns").to_csv(
+                "temp_films_import.csv", index=False
+            )
+            try:
+                import_list(change_all)
+                logger.info("List imported successfully.")
+            except Exception:
+                old_data.to_csv(
+                    Path(__file__).parent / "all_films.csv", index=False
+                )
+                logger.exception(
+                    "An error occurred while importing the list: "
+                )
     except Exception:
         old_data.to_csv(Path(__file__).parent / "all_films.csv", index=False)
         logger.exception("An error occurred while importing the list: ")
