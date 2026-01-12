@@ -208,6 +208,11 @@ def import_list(change_all: bool) -> None:
     options.add_argument("--disable-sync")
 
     driver = webdriver.Chrome(options=options)
+    if (
+        not isinstance(driver.command_executor, str)
+        and driver.command_executor.client_config is not None
+    ):
+        driver.command_executor.client_config.timeout = 1000
 
     driver.get("https://letterboxd.com/sign-in")
     WebDriverWait(driver, 10).until(
@@ -233,7 +238,7 @@ def import_list(change_all: bool) -> None:
     list_name = os.getenv("LETTERBOXD_LIST")
     driver.get(f"https://letterboxd.com/{username}/list/{list_name}/edit/")
 
-    WebDriverWait(driver, 10).until(
+    WebDriverWait(driver, 10 * 60).until(
         EC.visibility_of_element_located((By.CLASS_NAME, "fc-cta-consent"))
     ).click()
 
@@ -311,9 +316,9 @@ def import_list(change_all: bool) -> None:
 def main() -> None:
     """Create the CSV file and import it to Letterboxd."""
     try:
-        response = requests.get("https://ipinfo.io/json", timeout=5)
+        response = requests.get("http://ipinfo.io/json", timeout=5)
     except requests.ConnectionError:
-        response = requests.get("https://ipinfo.io/json", timeout=5)
+        response = requests.get("http://ipinfo.io/json", timeout=5)
     data: dict[str, str] = response.json()
     if "country" in data and data["country"] != "FR":
         logger.warning(
@@ -343,17 +348,35 @@ def main() -> None:
         return
 
     max_deleted_films = 100
+    max_films_to_print = 10
+
     if len(removed_films) > 0:
         change_all = True
         new_data_sorted.drop("ID", axis="columns").to_csv(
             "temp_films_import.csv", index=False
         )
         logger.info(
-            "%d films have been deleted, %d new films added; the whole list "
+            "%d film%s been deleted, %d new film%s added; the whole list "
             "will be imported.",
             len(removed_films),
+            " has" if len(removed_films) == 1 else "s have",
             len(added_films),
+            "" if len(added_films) == 1 else "s",
         )
+
+        if 0 < len(added_films) < max_films_to_print:
+            logger.info(
+                "New film%s: %s",
+                " is" if len(added_films) == 1 else "s are",
+                ", ".join(added_films["Title"].to_list()),
+            )
+
+        if len(removed_films) < max_films_to_print:
+            logger.info(
+                "Deleted film%s: %s",
+                " is" if len(removed_films) == 1 else "s are",
+                ", ".join(removed_films["Title"].to_list()),
+            )
     elif len(removed_films) > max_deleted_films:
         logger.warning(
             "%d films have been deleted, it is suspicious. Script will stop.",
@@ -365,7 +388,18 @@ def main() -> None:
         added_films.drop("ID", axis="columns").to_csv(
             "temp_films_import.csv", index=False
         )
-        logger.info("%d new films will be imported.", len(added_films))
+        logger.info(
+            "%d new film%s will be imported.",
+            len(added_films),
+            "" if len(added_films) == 1 else "s",
+        )
+
+        if len(added_films) < max_films_to_print:
+            logger.info(
+                "New film%s: %s",
+                " is" if len(added_films) == 1 else "s are",
+                ", ".join(added_films["Title"].to_list()),
+            )
 
     try:
         import_list(change_all)
