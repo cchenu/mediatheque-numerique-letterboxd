@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mediatheque-numerique-letterboxd"
-version = "2.1.0"
+version = "2.1.1"
 description = "Exporte les films présents sur le site de la Médiathèque numérique et les importe dans une liste Letterboxd"
 authors = [{ name = "cchenu" }]
 license = { file = "LICENSE" }
