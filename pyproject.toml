@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mediatheque-numerique-letterboxd"
-version = "2.1.1"
+version = "2.1.2"
 description = "Exporte les films présents sur le site de la Médiathèque numérique et les importe dans une liste Letterboxd"
 authors = [{ name = "cchenu" }]
 license = { file = "LICENSE" }
@@ -34,9 +34,10 @@ dependencies = [
     "trio-websocket>=0.12.2",
     "typing-extensions>=4.14.1",
     "tzdata>=2025.2",
+    "undetected_chromedriver>=3.5.5",
     "urllib3[socks]>=2.4.0",
     "websocket-client>=1.8.0",
-    "wsproto>=1.2.0"
+    "wsproto>=1.2.0",
 ]
 
 [project.urls]
@@ -96,6 +97,7 @@ target-version = ["py312"]
 python_version = "3.12"
 strict = true
 pretty = true
+ignore_missing_imports = true
 disallow_any_unimported = true
 # disallow_any_expr = true
 disallow_any_decorated = true

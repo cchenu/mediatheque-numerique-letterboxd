@@ -3,13 +3,14 @@
 import logging
 import os
 import re
+import time
 from pathlib import Path
 from typing import TYPE_CHECKING, Literal
 
 import pandas as pd
 import requests
+import undetected_chromedriver as uc
 from dotenv import load_dotenv
-from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver import ActionChains
 from selenium.webdriver.chrome.options import Options
@@ -178,6 +179,12 @@ def create_csv(sort_by: Literal["PUBLICATION_DATE", "TITLE"]) -> pd.DataFrame:
 
     df_films = df_films.drop_duplicates(subset=["Title", "Directors", "Year"])
 
+    df_corrections = pd.read_csv(Path(__file__).parent / "corrections.csv")
+    df_films_idx = df_films.set_index("ID")
+    df_corr_idx = df_corrections.set_index("ID")
+    df_films_idx.update(df_corr_idx)
+    df_films = df_films_idx.reset_index()
+
     df_films.to_csv(Path(__file__).parent / "all_films.csv", index=False)
 
     logger.info("Data fetched and saved to all_films.csv")
@@ -207,7 +214,8 @@ def import_list(change_all: bool) -> None:
     options.add_argument("--disable-background-networking")
     options.add_argument("--disable-sync")
 
-    driver = webdriver.Chrome(options=options)
+    driver = uc.Chrome(options=options, version_main=144)
+    driver.get("https://letterboxd.com/sign-in")
     if (
         not isinstance(driver.command_executor, str)
         and driver.command_executor.client_config is not None
@@ -259,7 +267,8 @@ def import_list(change_all: bool) -> None:
 
     message = driver.find_elements(By.CSS_SELECTOR, ".jnotify-message")
     if message and "Oh no!" in message[0].text:
-        driver.quit()
+        driver.close()
+        time.sleep(1)
         msg = "Error in letterboxd during import."
         raise WebDriverException(msg)
 
@@ -307,8 +316,8 @@ def import_list(change_all: bool) -> None:
             (By.CLASS_NAME, "jnotify-message"), "list was saved"
         )
     )
-
-    driver.quit()
+    driver.close()
+    time.sleep(1)
 
     Path("temp_films_import.csv").unlink()
 

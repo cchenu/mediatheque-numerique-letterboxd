@@ -7,7 +7,8 @@ BLACK=black
 ISORT=isort
 MYPY=mypy
 PYTEST=pytest
-MAKE = make
+MAKE=make
+PYTHON=python
 
 install:
 	# pip 25.3 does not work with pip-compile
@@ -61,6 +62,9 @@ format:
 test:
 	$(PYTEST)
 
+run:
+	$(PYTHON) main.py
+
 requirements:
 	pip-compile --all-extras pyproject.toml
 
@@ -80,4 +84,5 @@ help:
 	@echo "  format         All formatting (ruff + black + isort)"
 	@echo "  test           Run all tests"
 	@echo "  requirements   Compile requirements"
+	@echo "  run   			Run the script"
 	@echo "  help           Show this help"

@@ -1,4 +1,31 @@
 ID,Title,Directors,Year
+54085751,Rembrandt,Pierre Schoeller,2025
+54085855,Un simple accident,Jafar Panahi,2025
+54085439,Reviens-moi,Sergio De León,2025
+54085355,Frantz Fanon,Abdenour Zahzah,2024
+54085367,Ni dieux ni maîtres,Eric Cherrière,2019
+54083963,Le Rire et le couteau,Pedro Pinho,2025
+54085239,Badh,Guillaume de Fontenay,2025
+54085119,Fils de,Carlos Abascal Peiró,2025
+54085179,L'été de Jahia,Olivier Meys,2024
+54085215,Valensole 1965,Dominique Filhol,2024
+54082856,Le Criminel,Orson Welles,1945
+54084860,Islands,Jan-Ole Gerster,2025
+54085191,MadS,David Moreau,2023
+54084818,Salve María,Mar Coll,2024
+54084806,À feu doux,Sarah Friedland,2024
+54085255,La disparition de Josef Mengele,Kirill Serebrennikov,2025
+54084794,L'Intérêt d'Adam,Laura Wandel,2025
+54084747,The Things You Kill,Alireza Khatami,2025
+54084718,Dead Mail,"Kyle McConaghy,Joe DeBoer",2024
+54084700,"Freud, la dernière confession",Matt Brown,2023
+54084706,Perla,Alexandra Makarová,2025
+22293,Fleur de Tonnerre,Stéphanie Pillonca-Kervern,2016
+54084502,Fantôme utile,Ratchapoom Boonbunchachoke,2025
+54084496,Moon,Kurdwin Ayub,2024
+54084735,En première ligne,Petra Volpe,2025
+54084484,"Sally Bauer, à contre-courant",Frida Kempff,2024
+54084490,Aux jours qui viennent,Nathalie Najem,2025
 54084472,Life of Chuck,Mike Flanagan,2024
 54084478,I Love Peru,"Hugo David,Raphaël Quenard",2025
 54084460,Transamazonia,Pia Marais,2024
@@ -6,23 +33,25 @@ ID,Title,Directors,Year
 54084442,Les Inshortables - Volume 9,"Pierre Menahem,Arnaud Dufeys,Julian McKinnon,Fiume,Mexianu Medenou,Andrea Romano,Raphaël Balboni,Ann Sirot,Romain Pham Roellet",2025
 54084448,Sept jours,Ali Samadi Ahadi,2024
 54084281,La Voie du serpent,Kiyoshi Kurosawa,2024
-54084251,Horizonte,César Augusto Acevedo,2024
 54084269,Qui veut épouser un astronaute ?,David Matamoros,2024
+54084251,Horizonte,César Augusto Acevedo,2024
+54084824,In a Violent Nature,Chris Nash,2024
 54084436,The Artifice Girl,Franklin Ritch,2022
-54083705,Miroirs No. 3,Christian Petzold,2025
 54084239,Cloud,Kiyoshi Kurosawa,2024
-54083951,La Trilogie d'Oslo : Rêves,Dag Johan Haugerud,2024
+54083705,Miroirs No. 3,Christian Petzold,2025
 54083945,La Tournée,Florian Hessique,2025
+54083951,La Trilogie d'Oslo : Rêves,Dag Johan Haugerud,2024
 54084287,The Wandering Earth II : La fin des temps,Frant Gwo,2023
+54084842,Silent Land,Aga Woszczyńska,2021
 54083927,Sous tension,Penny Panayotopoulou,2024
-54083903,Best Wishes to All,Yûta Shimotsu,2022
+54083903,Best Wishes to All,Yûta Shimotsu,2023
 54081344,Kouté Vwa,Maxime Jean-Baptiste,2024
-54083909,Confidente,"Guillaume Giovanetti,Çagla Zencirci",2025
 54083939,Le Grand Déplacement,Jean-Pascal Zadi,2025
+54083909,Confidente,"Guillaume Giovanetti,Çagla Zencirci",2025
 54082225,Marmelade,Keir O'Donnell,2024
 54081260,La Minute de vérité,Jean Delannoy,1952
-54083885,La Trilogie d'Oslo : Amour,Dag Johan Haugerud,2024
 54081638,A Normal Family,Jin-ho Hur,2023
+54083885,La Trilogie d'Oslo : Amour,Dag Johan Haugerud,2024
 54084079,Valeur sentimentale,Joachim Trier,2025
 54081829,Spermageddon,"Tommy Wirkola,Rasmus A. Sivertsen",2024
 54081727,Once Upon a Time in Gaza,"Tarzan Nasser,Arab Nasser",2025
@@ -34,8 +63,8 @@ ID,Title,Directors,Year
 54083344,En boucle,Junta Yamaguchi,2023
 54083356,Papamobile,Sylvain Estibal,2025
 54083362,La Réparation,Régis Wargnier,2025
-54083368,La Trilogie d'Oslo : Désir,Dag Johan Haugerud,2024
 54083971,La traversée du temps,Mamoru Hosada,2007
+54083368,La Trilogie d'Oslo : Désir,Dag Johan Haugerud,2024
 54083332,Loveable,Lilja Ingolfsdottir,2024
 54083326,Indomptables,Thomas Ngijol,2025
 54083891,Tu ne mentiras point,Tim Mielants,2024
@@ -48,7 +77,6 @@ ID,Title,Directors,Year
 54083018,My Father's Son,Sheng Qiu,2025
 54083067,Le Répondeur,Fabienne Godet,2025
 17634,Diva,Jean-Jacques Beineix,1981
-54083060,Sister Midnight,Karan Kandhari,2024
 54083012,Road Rage : Le Convoi de la vengeance,Dung Luong Dinh,2022
 54083054,"The Return, le retour d'Ulysse",Uberto Pasolini,2024
 54083000,Else,Thibault Emin.,2024
@@ -56,16 +84,16 @@ ID,Title,Directors,Year
 54083048,La Mitad de Ana,Marta Nieto,2024
 54082988,Fanon,Jean-Claude Flamand-Barny,2024
 54082964,Ange,Tony Gatlif,2025
-54082976,Good Boy,Ben Leonberg,2025
 54082970,Frankie Freako,Steven Kostanski,2024
+54082976,Good Boy,Ben Leonberg,2025
 54083466,Royal Affair,Nikolaj Arcel,2012
 54082652,Jeunes mères,"Luc Dardenne,Jean-Pierre Dardenne",2025
 54082183,La Venue de l'avenir,Cédric Klapisch,2025
-54081668,Peacock,Bernhard Wenger,2024
 32953,Massacre à la tronçonneuse,Tobe Hooper,1974
+54081668,Peacock,Bernhard Wenger,2024
 54082646,"Milli Vanilli, de la gloire au cauchemar",Simon Verhoeven,2023
-54082201,"Pooja, Sir",Deepak Rauniyar,2024
 54081650,Enzo,"Robin Campillo,Laurent Cantet",2025
+54082201,"Pooja, Sir",Deepak Rauniyar,2024
 54083252,Summer Wars,Mamoru Hosada,2009
 54081901,Libertate,Tudor Giurgiu,2023
 27694,La Belle noiseuse,Jacques Rivette,1990
@@ -94,23 +122,23 @@ ID,Title,Directors,Year
 54080971,Kneecap,Rich Peppiatt,2024
 54082457,Other,David Moreau,2025
 54080959,Le Village aux portes du paradis,Mo Harawe,2024
-54080941,Les Enfants rouges,Lotfi Achour,2024
 54080935,"L'Amour, c'est surcoté",Mourad Winter,2024
+54080941,Les Enfants rouges,Lotfi Achour,2024
 54080947,Un monde merveilleux,Giulio Callegari,2024
 54080929,Sous hypnose,Ernst De Geer,2023
 54083915,Dangerous Animals,Sean Byrne,2025
 54081001,Les Maudites,Pedro Martín Calero,2024
 54080899,Les Arènes,Camille Perton,2024
 54080911,Le Routard,Philippe Mechelen,2025
-54080905,Le Mélange des genres,Michel Leclerc,2025
 54080893,Aimons-nous vivants,Jean-Pierre Améris,2025
+54080905,Le Mélange des genres,Michel Leclerc,2025
 54078729,"Lola, une femme allemande",Rainer Werner Fassbinder,1981
 54080875,"Moi, ma mère et les autres",Iair Said,2024
 54080887,Oxana,Charlène Favier,2024
 54083873,Les Filles désir,Prïncia Car,2025
 54080863,Deux soeurs,Mike Leigh,2024
-54080881,Les Musiciens,Grégory Magne,2025
 54080857,Comment devenir riche (grâce à sa grand-mère),Pat Boonnitipat,2024
+54080881,Les Musiciens,Grégory Magne,2025
 54080995,Transmitzvah,Daniel Burman,2024
 54080845,The Shameless,Konstantin Bojanov,2024
 54080989,Aïcha,Mehdi Barsaoui,2024
@@ -130,8 +158,8 @@ ID,Title,Directors,Year
 54080095,Toxic,Saule Bliuvaite,2024
 54080071,Accident domestique,Caye Casas,2022
 54080077,Alterlove,Jonathan Taieb,2024
-54080053,Sebastian,Mikko Mäkelä,2024
 54080023,Anna,Marco Amenta,2023
+54080053,Sebastian,Mikko Mäkelä,2024
 54080029,Ghostlight,"Alex Thompson,Kelly O'Sullivan",2024
 54080017,Aimer perdre,"Lenny Guit,Harpo Guit",2025
 54080035,"Marco, l'énigme d'une vie","Jon Garaño,Aitor Arregi",2024
@@ -141,15 +169,15 @@ ID,Title,Directors,Year
 54079981,Le Joueur de go,Kazuya Shiraishi,2024
 54079987,Voyage avec mon père,Julia von Heinz,2024
 54079975,Je le jure,Samuel Theis,2024
-54080376,L'effacement,Karim Moussaoui,2025
 54079963,Prosper,Yohann Gloaguen,2025
+54080376,L'effacement,Karim Moussaoui,2025
 54079951,"Ma mère, Dieu et Sylvie Vartan",Ken Scott,2025
 54079945,Les Tempêtes,Dania Reymond-Boughenou,2024
 54080364,Harvest,Athina Rachel Tsangari,2024
 54080851,B.O.Y : Une âme blessée,Søren Green,2024
 54079101,Vers un pays inconnu,Mahdi Fleifel,2024
-54079071,Au pays de nos frères,"Raha Amirfazli,Alireza Ghasemi",2024
 54079083,Lettres siciliennes,"Antonio Piazza,Fabio Grassadonia",2024
+54079071,Au pays de nos frères,"Raha Amirfazli,Alireza Ghasemi",2024
 54079077,Bergers,Sophie Deraspe,2024
 54079107,Vermiglio ou la Mariée des montagnes,Maura Delpero,2024
 29715,Juste avant la nuit,Claude Chabrol,1971
@@ -182,22 +210,23 @@ ID,Title,Directors,Year
 54078051,Je promets d'être sage,Ronan Le Page,2019
 54077925,Bridget Jones : Folle de lui,Michael Morris,2025
 54078981,Queer,Luca Guadagnino,2024
-54077901,La Espera,F. Javier Gutiérrez,2023
 54077913,On ira,Enya Baroux,2025
+54077901,La Espera,F. Javier Gutiérrez,2023
 54077895,Cassandre,Hélène Merlin,2024
 54078207,Le Test,Emmanuel Poulain-Arnaud,2020
 54077877,Blue Sun Palace,Constance Tsang,2024
 54077871,L'âge imminent,"Gerard Simó Gimeno,Clara Serrano Llorens",2024
 54079405,Banzo,Margarida Cardoso,2024
-54077859,Mon gâteau préféré,"Behtash Sanaeeha,Maryam Moghadam",2024
 54078147,La Brigade,Louis-Julien Petit,2021
+54077859,Mon gâteau préféré,"Behtash Sanaeeha,Maryam Moghadam",2024
 54077865,Presence,Steven Soderbergh,2024
-54078213,Presque,"Alexandre Jollien,Bernard Campan",2020
 54079411,The Devil's Bath,"Severin Fiala,Veronika Franz",2024
+54078213,Presque,"Alexandre Jollien,Bernard Campan",2020
 54078718,Un alibi,Orso Miret,2022
 54077688,La Pampa,Antoine Chevrollier,2024
 54076722,Bernadette a disparu,Richard Linklater,2019
 54078063,Damien veut changer le monde,Xavier de Choudens,2018
+54085173,The Last Refuge,Destry Allyn Spielberg,2024
 54077670,Bonjour l'asile,Judith Davis,2024
 54078033,Selfie,"Vianney Lebasque,Cyril Gelblat,Marc Fitoussi,Thomas Bidegain,Tristan Aurouet",2019
 54077664,Maybe I do ?,Michael Jacobs,2023
@@ -206,14 +235,14 @@ ID,Title,Directors,Year
 54077658,Un monde violent,Maxime Caperan,2025
 54078009,J'irai mourir dans les Carpates,Antoine de Maximy,2020
 54076482,Le Beau Rôle,Victor Rodenbach,2024
-54077646,"Totto-chan, la petite fille à la fenêtre",Shinnosuke Yakuwa,2023
 54078201,Rose,Aurélie Saada,2021
+54077646,"Totto-chan, la petite fille à la fenêtre",Shinnosuke Yakuwa,2023
 54080059,Seconde chance,Mauro Carvalho,2024
 54076992,Wet Monday,Justyna Mytnik,2024
 54078231,Citoyen d'honneur,Mohamed Hamidi,2022
 54067661,Le garçon et le héron,Hayao Miyazaki,2023
-54076980,La Pie voleuse,Robert Guédiguian,2024
 54076950,Black Dog,Hu Guan,2024
+54076980,La Pie voleuse,Robert Guédiguian,2024
 54076938,A bicyclette !,Mathias Mlekuz,2024
 54076944,Adversaire,Milad Alami,2023
 54076962,Lads,Julien Menanteau,2024
@@ -233,8 +262,8 @@ ID,Title,Directors,Year
 54078135,Au revoir le bonheur,Ken Scott,2021
 54078159,Coupez !,Michel Hazanavicius,2022
 54076884,"Radio Prague, les ondes de la révolte",Jiří Mádl,2024
-54076872,Le Mohican,Frédéric Farrucci,2024
 54076878,Patagonia,Simone Bozzelli,2023
+54076872,Le Mohican,Frédéric Farrucci,2024
 54076854,Baby,Marcelo Caetano,2024
 54076220,La course à l’échalote,Claude Zidi,1976
 54077760,Neruda,Pablo Larraín,2016
@@ -255,10 +284,10 @@ ID,Title,Directors,Year
 54076542,Un ours dans le Jura,Franck Dubosc,2024
 54076512,Une langue universelle,Matthew Rankin,2024
 54076214,Eiffel,Martin Bourboulon,2020
-54076518,Maria,Pablo Larraín,2024
 54076506,Hiver à Sokcho,Koya Kamura,2024
-54076530,Young Hearts,Anthony Schatteman,2024
+54076518,Maria,Pablo Larraín,2024
 54076494,Le Choix du pianiste,Jacques Otmezguine,2024
+54076530,Young Hearts,Anthony Schatteman,2024
 54077247,Belladone,Alanté Kavaïté,2025
 54076208,Les beaux gosses,Riad Sattouf,2009
 54076986,Te revoir,Romas Zabarauskas,2023
@@ -267,14 +296,14 @@ ID,Title,Directors,Year
 54075836,Retour en Alexandrie,Tamer Ruggli,2023
 54075884,Le Jardin zen,Naoko Ogigami,2023
 54075818,Yôkai - le monde des esprits,Eric Khoo,2024
-54074062,Fighting Back,Lewis Teague,1982
 54075812,La Rivière des sens,Xue Ma,2023
+54074062,Fighting Back,Lewis Teague,1982
 54075681,Monsieur Hire,Patrice Leconte,1989
 54075866,Tout ira bien,Ray Yeung,2024
 54075854,On the Go,"María G. Royo,Julia de Castro",2023
 54075675,La vie pour de vrai,Dany Boon,2023
-54075848,Jouer avec le feu,"Muriel Coulin,Delphine Coulin",2024
 54075842,It's Okay!,Kim Hye-young,2023
+54075848,Jouer avec le feu,"Muriel Coulin,Delphine Coulin",2024
 54075860,September & July,Ariane Labed,2024
 18616,Virgin Suicides,Sofia Coppola,1999
 54076616,Reine mère,Manele Labidi,2024
@@ -303,8 +332,8 @@ ID,Title,Directors,Year
 54074565,La Plus Précieuse des marchandises,Michel Hazanavicius,2024
 54074571,Prodigieuses,"Valentin Potier,Frédéric Potier",2024
 54073816,Genius,Michael Grandage,2016
-54074553,My Sunshine,Hiroshi Okuyama,2024
 54074547,Vingt dieux,Louise Courvoisier,2024
+54074553,My Sunshine,Hiroshi Okuyama,2024
 54074559,Brûle le sang,Akaki Popkhadze,2024
 54075663,Je suis toujours là,Walter Salles,2024
 54074535,Les Radley,Euros Lyn,2024
@@ -329,10 +358,10 @@ ID,Title,Directors,Year
 54073695,L'Amour ouf,Gilles Lellouche,2024
 54073665,Le Déluge,Gianluca Jodice,2024
 54073647,Anora,Sean Baker,2024
-54073689,The Wall,Philippe van Leeuw,2023
 54073677,No nos moverán,Pierre Saint-Martin Castellanos,2024
-54073671,Grand Tour,Miguel Gomes,2024
 54073653,La Bella estate,Laura Luchetti,2023
+54073689,The Wall,Philippe van Leeuw,2023
+54073671,Grand Tour,Miguel Gomes,2024
 54074647,Fanny,"Marc Allégret,Marcel Pagnol",1932
 54073641,Mémoires d'un corps brûlant,Antonella Sudasassi Furniss,2024
 54073156,Ne me jugez pas,Marwan Mokbel,2023
@@ -364,8 +393,8 @@ ID,Title,Directors,Year
 54072382,Un amor,Isabel Coixet,2023
 54060384,La Demoiselle d'honneur,Claude Chabrol,2004
 54074068,Great Jailbreak,Teruo Ishii,1975
-54071992,Fario,Lucie Prost,2024
 54071998,Good One,India Donaldson,2024
+54071992,Fario,Lucie Prost,2024
 54072004,I Feel Fine.,"Hailey Spicer,Austin Spicer",2024
 54072364,Ni chaînes ni maîtres,Simon Moutaïrou,2024
 54072358,Megalopolis,Francis Ford Coppola,2024
@@ -377,8 +406,8 @@ ID,Title,Directors,Year
 54071914,Les Barbares,Julie Delpy,2024
 54071926,L'Histoire de Souleymane,Boris Lojkine,2024
 54072652,La femme infidèle,Claude Chabrol,1969
-54071902,Le Procès du chien,Laetitia Dosch,2024
 54071872,Kill,Nikhil Bhat,2023
+54071902,Le Procès du chien,Laetitia Dosch,2024
 54072838,The We and the I,Michel Gondry,2012
 54072640,Le Boucher,Claude Chabrol,1970
 54077700,Into the Deep,Christian Sesma,2025
@@ -396,8 +425,8 @@ ID,Title,Directors,Year
 54071884,Gondola,Veit Helmer,2023
 54072021,Je ne me laisserai plus faire,Gustave Kervern,2023
 54072214,Quand vient l'automne,François Ozon,2024
-54070867,Viêt and Nam,Minh Quy Truong,2024
 54069435,Septembre sans attendre,Jonás Trueba,2024
+54070867,Viêt and Nam,Minh Quy Truong,2024
 54069028,Maryland,Alice Winocour,2015
 54070843,"Vivre, mourir, renaître",Gaël Morel,2024
 54070831,Les Belles Créatures,Guðmundur Arnar Guðmundsson,2022
@@ -411,8 +440,8 @@ ID,Title,Directors,Year
 54070477,Les Liens sacrés,Eyal Kantor,2024
 54070441,Zénithal,Jean Baptiste Saurel,2024
 54070423,Mi Bestia,Camila Beltrán,2024
-54071446,"Mulan, la légende",Yuxi Li,2020
 54070299,My Happy Ending,"Tal Granit,Sharon Maymon",2023
+54071446,"Mulan, la légende",Yuxi Li,2020
 54078345,The Black Demon,Adrian Grunberg,2023
 54070257,Sons,Gustav Möller,2024
 54071083,Les Graines du figuier sauvage,Mohammad Rasoulof,2024
@@ -431,8 +460,8 @@ ID,Title,Directors,Year
 54071545,The Words,"Lee Sternthal,Brian Klugman",2012
 54069670,Monolith,Matt Vesely,2022
 54069586,Karmapolice,Julien Paolini,2023
-54069574,Girls Will Be Girls,Shuchi Talati,2024
 54071011,Chocolat,Roschdy Zem,2016
+54069574,Girls Will Be Girls,Shuchi Talati,2024
 54070358,Langue étrangère,Claire Burger,2024
 54069556,Depuis la dernière fois que l'on s'est vus,Matias De Leis Correa,2023
 54069550,Santosh,Sandhya Suri,2023
@@ -447,8 +476,8 @@ ID,Title,Directors,Year
 54069226,Elyas,Florent-Emilio Siri,2024
 54069746,La fille du puisatier,Marcel Pagnol,1940
 54069538,Loop Track,Thomas Sainsbury,2023
-54069142,Charisma,Kiyoshi Kurosawa,1999
 54069202,Pourquoi tu souris ?,"Christine Paillard,Chad Chenouga",2024
+54069142,Charisma,Kiyoshi Kurosawa,1999
 54069178,Matria,Álvaro Gago Díaz,2023
 54069483,À son image,Thierry De Peretti,2024
 54068986,Pendant ce temps sur Terre,Jérémy Clapin,2024
@@ -531,8 +560,8 @@ ID,Title,Directors,Year
 54067271,Les sous-doués,Claude Zidi,1980
 54066559,Cat Person,Susanna Fogel,2023
 54066565,Hopeless,Kim Chang-hoon,2023
-54072508,Lore,"Greig Johnson,Patrick Michael Ryder,James Bushe",2023
 54072502,Horror in the High Desert 3 : Firewatch,Dutch Marich,2024
+54072508,Lore,"Greig Johnson,Patrick Michael Ryder,James Bushe",2023
 54066493,Huit et demi,Federico Fellini,1962
 54066553,Le Tableau volé,Pascal Bonitzer,2024
 54066547,The Sweet East,Sean Price Williams,2023
@@ -553,10 +582,10 @@ ID,Title,Directors,Year
 54066152,"Ma Vie, mes règles",Molly McGlynn,2023
 54066146,Un jeune chaman,Lkhagvadulam Purev-Ochir,2023
 54066140,Une Affaire de principe,Antoine Raimbault,2024
-54066394,Dans un pays qui n'existe plus,Aelrun Goette,2022
 54069580,Laced,Kyle Butenhoff,2023
-54069562,L'Une et l'autre,Shamim Sarif,2023
+54066394,Dans un pays qui n'existe plus,Aelrun Goette,2022
 54066134,LaRoy,Shane Atkinson,2023
+54069562,L'Une et l'autre,Shamim Sarif,2023
 54065870,La Promesse verte,Edouard Bergeon,2024
 54065840,Borgo,Stéphane Demoustier,2023
 54065876,L'Échappée,Anthony Chen,2023
@@ -586,8 +615,8 @@ ID,Title,Directors,Year
 54064884,Riddle of Fire,Weston Razooli,2023
 54062769,Happiness Therapy,David O Russell,2012
 54064615,Notre Monde,Luàna Bajrami,2023
-54064609,Hors-saison,Stéphane Brizé,2023
 54070819,The Seeding,Barney Clay,2023
+54064609,Hors-saison,Stéphane Brizé,2023
 54064603,"Agra, une famille indienne",Kanu Behl,2023
 54064585,Bis Repetita,Émilie Noblet,2023
 54064591,Yurt,Nehir Tuna,2023
@@ -653,8 +682,8 @@ ID,Title,Directors,Year
 54062373,Qui a tué Maggie Moore(s) ?,John Slattery,2023
 54062349,Black Tea,Abderrahmane Sissako,2023
 54062361,Dark Market,Hee-kon Park,2023
-54063340,Le Grand Bain,Gilles Lellouche,2018
 54062367,May December,Todd Haynes,2023
+54063340,Le Grand Bain,Gilles Lellouche,2018
 54062355,"Cléo, Melvil et moi",Arnaud Viard,2023
 54070849,L'Ombre de la loi,Javier Reyna,2023
 54062645,Mon ami Robot,Pablo Berger,2023
@@ -735,8 +764,8 @@ ID,Title,Directors,Year
 54073659,Carnifex,Sean Lahiff,2022
 54049869,Les filles vont bien,Itsaso Arana,2023
 54058475,N'oublie pas les fleurs,Genki Kawamura,2022
-54049863,Un hiver à Yanji,Anthony Chen,2023
 54049857,Rien à perdre,Delphine Deloget,2023
+54049863,Un hiver à Yanji,Anthony Chen,2023
 54049845,Cult Killer,Jon Keeyes,2023
 54049827,Fool's Paradise,Charlie Day,2023
 54060016,Le Dilemme,Mani Kaul,1973
@@ -748,8 +777,8 @@ ID,Title,Directors,Year
 54059039,Ramona fait son cinéma,Andrea Bagney,2022
 54059045,Sublime,Mariano Biasin,2022
 54059021,La Dernière Reine,"Damien Ounouri,Adila Bendimerad",2022
-54063460,L'Empire,Bruno Dumont,2023
 54049797,Sea Sparkle,Domien Huyghe,2023
+54063460,L'Empire,Bruno Dumont,2023
 54059033,The Quiet Girl,Colm Bairéad,2022
 54059423,Ma fille,Naidra Ayadi,2018
 54049755,La passion de Dodin Bouffant,Tran Anh Hung,2023
@@ -764,8 +793,8 @@ ID,Title,Directors,Year
 54049083,Langue des oiseaux,Erik Bullot,2021
 54058971,Le club des miracles,Thaddeus O'Sullivan,2023
 54062685,Universal Theory,Timm Kröger,2023
-54058965,Le goût du saké,Yasujirô Ozu,1962
 54048857,Le Théorème de Marguerite,Anna Novion,2023
+54058965,Le goût du saké,Yasujirô Ozu,1962
 54048851,Le Petit Blond de la Casbah,Alexandre Arcady,2023
 54063775,Piégés dans la Savane,Mukunda Michael Dewil,2024
 54048797,Malum,Anthony DiBlasi,2023
@@ -829,7 +858,7 @@ ID,Title,Directors,Year
 54048164,Sous les figues,Erige Sehiri,2021
 54049887,Testament,Denys Arcand,2023
 54048659,Le Procès Goldman,"Cédric Kahn,Cédric Kahn",2023
-54047082,La Beauté du geste,Shô Miyake,2022
+54047082,La Beauté du geste,,2022
 54047088,Super-bourrés,Bastien Milheau,2023
 54047076,24 heures à New York,Vuk Lungulov-Klotz,2023
 54048152,Hinterland,Stefan Ruzowitzky,2021
@@ -842,15 +871,15 @@ ID,Title,Directors,Year
 54046788,Fermer les yeux,Víctor Erice,2023
 54047846,Un métier sérieux,Thomas Lilti,2023
 54048234,Le ravissement,Iris Kaltenbäck,2023
-54048266,Les Feuilles mortes,Aki Kaurismäki,2023
 51624,L'Amour et les Forêts,Valérie Donzelli,2023
+54048266,Les Feuilles mortes,Aki Kaurismäki,2023
 54047792,Plus que jamais,Emily Atef,2022
 54049803,Boy Culture : Generation X,Q. Allan Brocka,2021
 54046740,L'éducation d'Ademoka,Adilkhan Yerzhanov,2022
 54046734,Assaut,Adilkhan Yerzhanov,2022
 54046746,Unrelated,Joanna Hogg,2007
-54046722,Exhibition,Joanna Hogg,2013
 54046716,Archipelago,Joanna Hogg,2010
+54046722,Exhibition,Joanna Hogg,2013
 54047836,Addicted to Romance,Rebecca Miller,2023
 54047810,Straight Up,James Sweeney,2019
 54048647,The Outwaters,Robbie Banfitch,2022
@@ -957,8 +986,8 @@ ID,Title,Directors,Year
 54343,"Un an, une nuit",Isaki Lacuesta,2022
 29846,Yamakasi,Ariel Zeitoun,2001
 54069532,"Piper, le joueur de flûte",Anthony Waller,2023
-27284,20 ans d'écart,David Moreau,2013
 54121,Amore mio,Guillaume Gouix,2022
+27284,20 ans d'écart,David Moreau,2013
 27317,L'Amour dure trois ans,Frédéric Beigbeder,2011
 54133,Marinette,Virginie Verrier,2023
 54048,Holy Emy,Araceli Lemos,2021
@@ -1010,9 +1039,9 @@ ID,Title,Directors,Year
 27037,Voici le temps des assassins,Julien Duvivier,1956
 52989,Carmen,Benjamin Millepied,2023
 53163,Le prix du passage,Thierry Binisti,2021
-53293,Ma langue au chat,Cécile Telerman,2023
 27036,Les Croix de bois,Raymond Bernard,1931
 53157,Dalva,Emmanuelle Nicot,2022
+53293,Ma langue au chat,Cécile Telerman,2023
 53091,Petit Jésus,Julien Rigoulot,2023
 53073,La Gravité,Cédric Ido,2022
 53001,Stars at noon,Claire Denis,2022
@@ -1061,16 +1090,17 @@ ID,Title,Directors,Year
 52016,Noémie dit oui,Geneviève Albert,2022
 52022,Los Reyes del mundo,Laura Mora,2022
 52857,Spring Breakers,Harmony Korine,2012
-52423,Hara-kiri,Masaki Kobayashi,1962
 27226,The Tree of life,Terrence Malick,2011
 51859,Nous finirons ensemble,Guillaume Canet,2019
+52423,Hara-kiri,Masaki Kobayashi,1962
 46687,Ran (Akira Kurosawa),Akira Kurosawa,1985
 47090,La Vache et le Prisonnier,Henri Verneuil,1959
 51992,Le Bleu du Caftan,Maryam Touzani,2022
 24044,Mort d'un pourri,Georges Lautner,1977
 51799,Notre-Dame brûle,Jean-Jacques Annaud,2022
-46201,Le Sixième sens,Michael Mann,1986
+51618,Mediterráneo,Marcel Barrena,2021
 51902,De grandes espérances,Sylvain Desclous,2022
+46201,Le Sixième sens,Michael Mann,1986
 51493,Comme une actrice,Sébastien Bailly,2023
 51896,Le Capitaine Volkonogov s'est échappé,"Aleksey Chupov,Natalya Merkulova",2021
 51511,Houria,Mounia Meddour,2022
@@ -1086,8 +1116,8 @@ ID,Title,Directors,Year
 24048,Tchao Pantin,Claude Berri,1982
 51487,Lucie Aubrac,Claude Berri,1996
 51463,La Syndicaliste,Jean-Paul Salomé,2022
-51457,Mon crime,François Ozon,2023
 51475,Les petits mouchoirs,Guillaume Canet,2010
+51457,Mon crime,François Ozon,2023
 27215,Mektoub My Love : Canto Uno,Abdellatif Kechiche,2017
 51207,Normale,Olivier Babinet,2023
 52695,Something in the Dirt,Aaron Moorhead,2022
@@ -1104,8 +1134,8 @@ ID,Title,Directors,Year
 24060,Marie-Octobre,Julien Duvivier,1958
 50790,Lucie perd son cheval,Claude Schmitz,2021
 46111,The Lost City of Z,James Gray,2016
-54385,Les Inshortables - Volume 7,"Jerry Carlsson,Benjamin Belloir",2022
 50589,Beau is Afraid,Ari Aster,2023
+54385,Les Inshortables - Volume 7,"Jerry Carlsson,Benjamin Belloir",2022
 50556,La Marche,Nabil Ben Yadir,2013
 50565,Revoir Paris,Alice Winocour,2022
 51950,Tatouage,Yasuzô Masumura,1966
@@ -1130,8 +1160,8 @@ ID,Title,Directors,Year
 22330,Loving,Jeff Nichols,2015
 38101,"Fin août, début septembre",Olivier Assayas,1998
 50202,Benedetta,Paul Verhoeven,2021
-45631,Le Lauréat,Mike Nichols,1967
 50155,L'Astronaute,Nicolas Giraud,2022
+45631,Le Lauréat,Mike Nichols,1967
 46009,Johnny English contre-attaque,David Kerr,2018
 50089,Le Marchand de sable,Steve Achiepo,2022
 50095,Un Petit miracle,Sophie Boudre,2022
@@ -1158,9 +1188,9 @@ ID,Title,Directors,Year
 49735,Un Varón,Fabian Hernández,2022
 45691,Highlander,Russell Mulcahy,1985
 45661,Guy,Alex Lutz,2018
-49711,My Left Foot,Jim Sheridan,1989
 44953,Good Morning England,Richard Curtis,2008
 47096,L'Évangile selon Saint-Matthieu,Pier Paolo Pasolini,1964
+49711,My Left Foot,Jim Sheridan,1989
 33192,L'Homme qui venait d'ailleurs,Nicolas Roeg,1976
 40894,Five,Igor Gotesman,2015
 50011,Lumières dansantes,Anders Thomas Jensen,2000
@@ -1210,9 +1240,9 @@ ID,Title,Directors,Year
 48866,Domingo et la brume,Ariel Escalante,2022
 48860,Anima Bella,Dario Albertini,2022
 48758,Neneh Superstar,Ramzi Ben Sliman,2023
-48848,Nos frangins,Rachid Bouchareb,2022
 48854,Les Miens,Roschdy Zem,2022
 48872,Caravage,Michele Placido,2022
+48848,Nos frangins,Rachid Bouchareb,2022
 48581,La Ligne,Ursula Meier,2022
 50113,La Cage,Pierre Granier-Deferre,1975
 48575,L'Envol,Pietro Marcello,2022
@@ -1237,8 +1267,8 @@ ID,Title,Directors,Year
 48170,Astrakan,David Depesseville,2022
 48563,La Tempête,"William Shakespeare,Derek Jarman",1979
 48140,Tant que le soleil frappe,Philippe Petit,2022
-48146,Projet Wolf Hunting,Hong-seon Kim,2022
 25391,La Mauvaise éducation,Pedro Almodóvar,2003
+48146,Projet Wolf Hunting,Hong-seon Kim,2022
 48134,Broadway,Christos Massalas,2022
 47750,The Housemaid,Sang-soo Im,2010
 48116,Fratè,"Barbara Biancardini,Karole Rocher",2022
@@ -1256,8 +1286,8 @@ ID,Title,Directors,Year
 47366,Le Grand Bazar,Claude Zidi,1973
 47249,Emily,Frances O'Connor,2022
 24054,La piel que habito,Pedro Almodóvar,2011
-45829,"Kanun, la loi du sang",Jérémie Guez,2022
 48539,Au-dessous du volcan,John Huston,1984
+45829,"Kanun, la loi du sang",Jérémie Guez,2022
 45415,All Hallows'Eve - A Terrifier story,Damien Leone,2013
 45811,Tel-Aviv – Beyrouth,Michale Boganim,2021
 45823,Pour la France,Rachid Hami,2022
@@ -1269,8 +1299,8 @@ ID,Title,Directors,Year
 45459,La Grande magie,Noémie Lvovsky,2022
 45391,Venez voir,Jonás Trueba,2022
 45397,Nostalgia,Mario Martone,2022
-43942,Cet été-là,Eric Lartigau,2022
 43960,Maestro(s),Bruno Chiche,2022
+43942,Cet été-là,Eric Lartigau,2022
 43936,Fumer fait tousser,Quentin Dupieux,2022
 43924,Nos soleils,Carla Simón,2022
 43930,Les Survivants,Guillaume Renusson,2022
@@ -1296,6 +1326,7 @@ ID,Title,Directors,Year
 43162,La Fiancée du pirate,Nelly Kaplan,1969
 43312,Yves,Benoît Forgeard,2019
 43318,Première année,Thomas Lilti,2018
+54084765,Hunt,Lee Jung-jae,2022
 22626,Baccalauréat,Cristian Mungiu,2016
 42329,She Will,Charlotte Colbert,2021
 42305,Juste une nuit,Ali Asgari,2022
@@ -1303,10 +1334,12 @@ ID,Title,Directors,Year
 42263,Despedida,Vinicius Lopes,2022
 43557,La Vérité,Hirokazu Kore-Eda,2019
 42347,Sages-femmes,Léa Fehner,2022
+42299,The Nocebo Effect,Lorcan Finnegan,2022
 41251,Storia di vacanze,Fabio D'Innocenzo,2020
+41968,La Brigade de Shandong,Yang Feng,2021
 32092,Un été sans histoires,Philippe Harel,1991
-41974,Mascarade,Nicolas Bedos,2022
 42028,L'Origine du mal,Sébastien Marnier,2022
+41974,Mascarade,Nicolas Bedos,2022
 41986,Les Liens qui nous unissent,Daniele Luchetti,2020
 32865,L'Oeuvre sans auteur (Parties 1 & 2),Florian Henckel von Donnersmarck,2018
 41998,Ammonite,Francis Lee,2020
@@ -1357,8 +1390,8 @@ ID,Title,Directors,Year
 41956,Mais qui a tué Pamela Rose ?,Eric Lartigau,2003
 24709,Saint Amour,"Benoît Delépine,Gustave Kervern",2016
 40348,Fête de famille,Cédric Kahn,2019
-41169,Onoda - 10000 nuits dans la jungle,Arthur Harari,2020
 41163,Monos,Alejandro Landes,2019
+41169,Onoda - 10000 nuits dans la jungle,Arthur Harari,2020
 41067,Superstar,Xavier Giannoli,2012
 42052,Splice,Vincenzo Natali,2009
 42976,A Scene at the Sea,Takeshi Kitano,1991
@@ -1403,8 +1436,8 @@ ID,Title,Directors,Year
 42070,Rendez-vous l'été prochain,Philip Seymour Hoffman,2009
 39636,Leila et ses frères,Saeed Roustaee,2022
 39718,Les Amandiers,Valéria Bruni Tedeschi,2022
-39675,EO,Jerzy Skolimowski,2022
 39681,Piggy,Carlota Pereda,2022
+39675,EO,Jerzy Skolimowski,2022
 39651,L'Innocent,Louis Garrel,2022
 39657,Jacky Caillou,Lucas Delangle,2022
 33324,Les Criminels,Joseph Losey,1960
@@ -1450,18 +1483,18 @@ ID,Title,Directors,Year
 38360,Jeunesse en sursis,Kateryna Gornostai,2021
 38192,La conspiration du Caire,Tarik Saleh,2022
 37825,Le sixième enfant,Léopold Legrand,2022
-37819,OSS 117 - Rio ne répond plus,Michel Hazanavicius,2008
+37819,OSS 117 : Rio ne répond plus,Michel Hazanavicius,2009
 37795,Rumba la vie,Franck Dubosc,2021
 37813,OSS 117 - Le Caire nid d'espion,Michel Hazanavicius,2006
 37801,Au revoir là-haut,Albert Dupontel,2017
 38366,Inside Ted :  Dans la tête d'un serial killer,Amber Sealey,2021
-37777,Les Vieux Fourneaux 2 : bons pour l'asile,Christophe Duthuron,2022
 37783,JSA (Joint Security Area),Park Chan-wook,2000
+37777,Les Vieux Fourneaux 2 : bons pour l'asile,Christophe Duthuron,2022
 37759,Le passager,Abbas Kiarostami,1974
 37765,Les Enfants des autres,Rebecca Zlotowski,2022
 37693,Les Cinq Diables,"Léa Mysius,Léa Mysius",2022
-37789,Pleasure,Ninja Thyberg,2020
 37681,En attendant Bojangles,Regis Roinsard,2021
+37789,Pleasure,Ninja Thyberg,2020
 38017,Midnight Silence,Oh-Seung Kwon,2021
 27130,Chico & Rita,"Fernando Trueba,Tono Errando,Javier Mariscal",2010
 37545,Vacances,"Béatrice de Staël,Léo Wolfenstein",2022
@@ -1493,9 +1526,9 @@ ID,Title,Directors,Year
 43036,Lèv la tèt dann fenwar (Quand la nuit se soulève),Érika Étangsalé,2021
 37138,Un beau matin,Mia Hansen-Løve,2022
 37174,C'est magnifique !,Clovis Cornillac,2020
-37036,Rodeo,Lola Quivoron,2022
 26387,Skin,Guy Nattiv,2018
 37048,Zaï Zaï Zaï Zaï,François Desagnat,2020
+37036,Rodeo,Lola Quivoron,2022
 37066,La dégustation,Ivan Calbérac,2022
 37060,On sourit pour la photo,François Uzan,2020
 32767,Détective Dee III : La légende des Rois Célestes,Tsui Hark,2018
@@ -1505,8 +1538,8 @@ ID,Title,Directors,Year
 20756,Night Call,Dan Gilroy,2011
 43024,Dear Hacker,Alice Lenay,2021
 37246,Stupid Things,Amman Abbasi,2016
-48896,Arctic,Joe Penna,2018
 48932,The Fortress,Hwang Dong-hyuk,2017
+48896,Arctic,Joe Penna,2018
 36830,Avec amour et acharnement,Claire Denis,2022
 32848,Parasite,Bong  Joon-ho,2019
 48938,Galveston,Mélanie Laurent,2018
@@ -1515,21 +1548,21 @@ ID,Title,Directors,Year
 37150,Los Sonámbulos,Paula Hernández,2022
 36605,As Bestas,Rodrigo Sorogoyen,2022
 36521,Des feux dans la nuit,Dominique Lienhard,2022
-36668,C'est la vie,Julien Rambaldi,2019
 37422,La Brigade des 800,Hu Guan,2020
+36668,C'est la vie,Julien Rambaldi,2019
 27549,Ludwig ou le crépuscule des dieux,Luchino Visconti,1972
 36632,The Father,Florian Zeller,2020
 36515,Les volets verts,Jean Becker,2022
 36587,Chronique d'une liaison passagère,Emmanuel Mouret,2022
 36890,La pièce rapportée,Antonin Peretjatko,2020
-36611,Albatros,Xavier Beauvois,2020
 36575,Ninjababy,Yngvild Sve Flikke,2021
-36656,Mille milliards de dollars,Henri Verneuil,1982
+36611,Albatros,Xavier Beauvois,2020
+36656,Mille Milliards de dollars,Henri Verneuil,1982
 24762,Ricky,François Ozon,2008
-36644,I... Comme Icare,Henri Verneuil,1979
+36644,I... comme Icare,Henri Verneuil,1979
 37527,Battle for Saipan,Brandon Slagle,2022
-36396,Beignets de tomates vertes,"Jon Avnet,Jon Avnet",1991
 32972,Vivarium,Lorcan Finnegan,2019
+36396,Beignets de tomates vertes,"Jon Avnet,Jon Avnet",1991
 36360,Brève histoire de la planète verte,Santiago Loza,2018
 32581,Freaks,"Adam B. Stein,Zach Lipovsky",2018
 36896,Jésus de Montréal,Denys Arcand,1989
@@ -1545,7 +1578,7 @@ ID,Title,Directors,Year
 35859,Totem,Fred De Loof ,2021
 35853,Pourquoi pas toi,Evi Romen,2019
 35949,Zahorí,Marí Alessandrini,2021
-35901,L'équipier,Kieron J. Walsh,2019
+35901,L'Équipier,Kieron J. Walsh,2020
 36366,The Last Thing Mary Saw,Edoardo Vitaletti,2020
 35937,Heroic Losers,Sebastián Borensztein,2019
 35895,Ça tourne à Saint-Pierre et Miquelon,Christian Monnier,2021
@@ -1589,9 +1622,9 @@ ID,Title,Directors,Year
 42739,Charles et Lucie,Nelly Kaplan,1979
 43132,La Mère,Vsevolod Poudovkine,1926
 43102,Plaisir d'amour,Nelly Kaplan,1991
-34770,Menteur,Olivier Baroux,2022
 34789,Marcel !,Jasmine Trinca,2022
 34777,Ultrasound,Roberto Schroeder,2021
+34770,Menteur,Olivier Baroux,2022
 43096,Papa les petits bateaux,Nelly Kaplan,1971
 42982,The Cursed : Le Film,Yong-wan Kim,2021
 34576,Le chemin du bonheur,Nicolas Steil,2021
@@ -1648,18 +1681,18 @@ ID,Title,Directors,Year
 33691,Contes du hasard et autres fantaisies,Ryūsuke Hamaguchi,2021
 33687,Petite Nature,Samuel Theis,2019
 33695,They Live in the Grey,"Burlee Vang,Abel Vang",2022
-33688,L'Ombre d'un mensonge,Bouli Lanners,2019
 33689,En même temps,"Benoît Delépine,Gustave Kervern",2022
+33688,L'Ombre d'un mensonge,Bouli Lanners,2019
 33690,De nos frères blessés,Hélier Cisterne,2020
-33708,OSS 117 : alerte rouge en Afrique noire,Nicolas Bedos,2019
 33710,Aline,Valérie Lemercier,2019
+33708,OSS 117 : alerte rouge en Afrique noire,Nicolas Bedos,2019
 33707,Bac Nord,Cédric Jimenez,2020
 33709,Serre-moi fort,Mathieu Amalric,2021
 33711,Les Choses humaines,Yvan Attal,2020
 33713,Illusions perdues,Xavier Giannoli,2021
 24179,Le Café du pont,Manuel Poirier,2009
-33705,Mystère à Saint-Tropez,Nicolas Benamou,2019
 33712,Les Fantasmes,"David Foenkinos,Stéphane Foenkinos",2021
+33705,Mystère à Saint-Tropez,Nicolas Benamou,2019
 33621,À nos enfants,Maria de Medeiros,2019
 33673,"Sally, fille de cirque",D.W. Griffith,1923
 33672,Nomads of the North,David Hartford,1920
@@ -1722,8 +1755,8 @@ ID,Title,Directors,Year
 33385,Bad Luck Banging or Loony Porn,Radu Jude,2021
 33207,Rabid,"Jen Soska,Sylvia Soska",2019
 33619,Karnawal,Juan Pablo Félix,2020
-33668,L'Origine du monde,Laurent Lafitte,2019
 33677,30 jours max,Tarek Boudali,2020
+33668,L'Origine du monde,Laurent Lafitte,2019
 33676,Police,Anne Fontaine,2020
 33667,Boîte noire,Yann Gozlan,2019
 33467,Le Cri du faucon,"Tyler Nilson,Michael Schwartz",2019
@@ -1738,9 +1771,9 @@ ID,Title,Directors,Year
 18918,Cherchez Hortense,Pascal Bonitzer,2012
 32023,Notre petite sœur,Hirokazu Kore-Eda,2015
 33377,Une affaire de famille,Hirokazu Kore-Eda,2018
-33383,Sibyl,Justine Triet,2019
-33382,Victoria,Justine Triet,2016
 33379,La Fracture,Catherine Corsini,2020
+33382,Victoria,Justine Triet,2016
+33383,Sibyl,Justine Triet,2019
 32589,La Fille au bracelet,Stéphane Demoustier,2019
 32019,Dogman,Matteo Garrone,2018
 33378,Berlin Alexanderplatz,Burhan Qurbani,2018
@@ -1756,8 +1789,8 @@ ID,Title,Directors,Year
 32613,Lisbonne Story,Wim Wenders,1994
 33617,Tom,Fabienne Berthaud,2021
 43641,Compañeros,Alvaro Brechner,2018
-31859,Night on Earth,Jim Jarmusch,1990
 21036,Camille Redouble,Noémie Lvovsky,2012
+31859,Night on Earth,Jim Jarmusch,1990
 33336,Suceurs de sang,Robert Hartford-Davis,1971
 33322,High Ground,Stephen Johnson,2020
 32831,Subway,Luc Besson,1985
@@ -1770,15 +1803,15 @@ ID,Title,Directors,Year
 33240,Terminus Paradis,Lucian Pintilie,1998
 33283,La Tentation d'Isabelle,Jacques Doillon,1985
 33278,Masques,Claude Chabrol,1987
-33572,Suis-moi je te fuis,Kôji Fukada,2020
 33520,En corps,Cédric Klapisch,2022
+33572,Suis-moi je te fuis,Kôji Fukada,2020
 33574,Les passagers de la nuit,Mikhaël Hers,2021
 33573,Fuis-moi je te suis,Kôji Fukada,2020
 33580,Plumes,Omar El Zohairy,2021
 32783,La Main du diable,Maurice Tourneur,1943
-33235,Les Aventures d'Ivan Tchonkine,Jirí Menzel,1994
 33236,Good Morning Babylone,"Vittorio Taviani,Paolo Taviani",1986
 33238,Procès de Jeanne d'Arc,Robert Bresson,1961
+33235,Les Aventures d'Ivan Tchonkine,Jirí Menzel,1994
 32824,Le Dernier combat,Luc Besson,1983
 33247,Paddy,Gérard Mordillat,1999
 32825,La Passion de Jeanne d'Arc,Carl Theodor Dreyer,1928
@@ -1788,13 +1821,13 @@ ID,Title,Directors,Year
 19341,La Beauté du Diable,René Clair,1949
 33244,Fucking Fernand,Gérard Mordillat,1987
 32762,L'Atalante,Jean Vigo,1933
-32580,Adoption,Márta Mészáros,1975
 32759,Regarde-moi,Audrey Estrougo,2006
 32760,Toxic Affair,Philomène Esposito,1993
 33227,La Rivière perdue,Paul Shoulberg,2022
 33233,El Nino Pez,Lucía Puenzo,2008
 33237,I Want to Go Home,Alain Resnais,1989
 33241,Trop tard,Lucian Pintilie,1996
+32580,Adoption,Márta Mészáros,1975
 33230,L'Enfer,Claude Chabrol,1993
 33457,Le Retour des Charlots,Jean Sarrus,1991
 33458,Nous maigrirons ensemble,Michel Vocoret,1979
@@ -1804,8 +1837,8 @@ ID,Title,Directors,Year
 33476,Le Bonheur de Pierre,Robert Ménard,2009
 33521,Théo et les métamorphoses,Damien Odoul,2020
 33121,Broadcast Signal Intrusion,Jacob Gentry,2021
-33522,L'Été l'éternité,Émilie Aussel,2020
 33436,Un fils du Sud,Barry Alexander Brown,2020
+33522,L'Été l'éternité,Émilie Aussel,2020
 33435,Apples,Christos Nikou,2020
 33437,L'Affaire Collini,Marco Kreuzpaintner,2019
 54046171,Sous l'aile des anges,A.J. Edwards,2012
@@ -1864,8 +1897,8 @@ ID,Title,Directors,Year
 33120,Une mère,Sylvie Audcoeur,2021
 33219,A Chiara,Jonas Carpignano,2021
 32410,The Assistant,Kitty Green,2020
-33071,Pour toujours,Ferzan Özpetek,2019
 32415,À plein temps,Éric Gravel,2021
+33071,Pour toujours,Ferzan Özpetek,2019
 33072,Maison de Retraite,Thomas Gilou,2020
 32411,Blood and Money,John Barr,2020
 33094,Women do cry,"Mina Mileva,Vesela Kazakova",2021
@@ -1951,8 +1984,8 @@ ID,Title,Directors,Year
 31879,La Femme au gardénia,Fritz Lang,1953
 31882,Laura nue,Nicolò Ferrari,1961
 31865,Toilettes et parking publics,Thales Corrêa,2019
-31883,On l'appelle Trinita,Enzo Barboni,1970
 31734,Une aussi longue absence,Henri Colpi,1960
+31883,On l'appelle Trinita,Enzo Barboni,1970
 32166,L'Homme de la cave,Philippe Le Guay,2021
 31820,Adiós Hombre,Mario Caiano,1967
 32174,Haut et Fort,Nabil Ayouch,2021
@@ -1985,8 +2018,8 @@ ID,Title,Directors,Year
 31886,Le Peuple Loup,"Ross Stewart,Tomm Moore",2020
 31933,Eugénie Grandet,Marc Dugain,2020
 31915,Le Milieu de l'horizon,Delphine Lehericey,2018
-31932,Las Niñas,Pilar Palomero,2020
 31939,Les Olympiades,Jacques Audiard,2021
+31932,Las Niñas,Pilar Palomero,2020
 31898,La Voix d'Aïda,Jasmila Zbanic,2021
 31611,Happily,BenDavid Grabinski,2021
 31612,Blockbuster,July Hygreck,2017
@@ -2018,8 +2051,8 @@ ID,Title,Directors,Year
 31517,12 Hour Shift,Brea Grant,2020
 31516,Les Inshortables Volume 6,"Marine Levéel,Fabien Ara,Tamer Ruggli,Thierry Préval,Severine De Streyker,Maxime Feyers,Hakim Mao",2021
 31727,Le Genou d'Ahed,Nadav Lapid,2019
-31728,La Nuit des rois,Philippe Lacôte,2020
 31635,Mon légionnaire,Rachel Lang,2021
+31728,La Nuit des rois,Philippe Lacôte,2020
 31633,Les Héroïques,Maxime Roy,2021
 31632,Fragile,Emma Benestan,2021
 31634,Les Intranquilles,"Joachim Lafosse,Joachim Lafosse",2021
@@ -2031,7 +2064,6 @@ ID,Title,Directors,Year
 31587,Rouge,Farid Bentoumi,2020
 31638,France,Bruno Dumont,2019
 31558,Le traducteur,"Rana Kazkaz,Anas Khalaf",2020
-54064092,Le Boulanger de Valorgue,Henri Verneuil,1953
 54064429,Orca,Michael Anderson,1977
 54066230,Les Caprices de Marie,Philippe de Broca,1970
 54066224,Avec le sourire,Maurice Tourneur,1936
@@ -2039,9 +2071,9 @@ ID,Title,Directors,Year
 54046464,L'Hypothèse démocratique - Une histoire basque,Thomas Lacoste,2021
 54046362,Anatomy of Time,Jakrawal Nilthamrong,2021
 54066451,Le Gitan,José Giovanni,1975
+54064092,Le Boulanger de Valorgue,Henri Verneuil,1953
 54046482,To Kill the Beast,Agustina San Martín,2021
 54046458,Goodnight Soldier,Hiner Saleem,2021
-54046440,La Chance sourit à madame Nikuko,Ayumu Watanabe,2021
 54046416,Sentinelle Sud,Mathieu Gérault,2020
 54066200,La Gueule ouverte,Maurice Pialat,1974
 54061812,I Can't Think Straight,Shamim Sarif,2008
@@ -2051,6 +2083,7 @@ ID,Title,Directors,Year
 54059165,Cinq court métrages de Blandine Lenoir,Blandine Lenoir,2022
 54046392,À la folie,Audrey Estrougo,2020
 54059699,Les Cousins,Claude Chabrol,1959
+54046440,La Chance sourit à madame Nikuko,Ayumu Watanabe,2021
 54065636,Fogaréu,Flávia Neves,2022
 54046428,L'Annonce faite à Marie,Alain Cuny,1991
 54046410,Sacrifice,Nico van den Brink,2022
@@ -2062,6 +2095,7 @@ ID,Title,Directors,Year
 54063709,Untel père et fils,Julien Duvivier,1943
 54065624,Trois Chambres à Manhattan,Marcel Carné,1965
 54062163,Le Cri de la roche,Werner Herzog,1991
+54084866,Cols de cuir,Ignazio Dolce,1989
 54046470,Memento Mori,Jean Heches,2021
 54046434,Baba Yaga - La Forêt des damnés,"Nathalia Hencker,Svyatoslav Podgaevskiy",2019
 54046404,La Ruche,Blerta Basholli,2021
@@ -2127,10 +2161,10 @@ ID,Title,Directors,Year
 31463,Tom Medina,Tony Gatlif,2021
 31213,Stinking Heaven,Nathan Silver,2015
 31484,Passion simple,Danielle Arbid,2020
-31310,Une histoire d'amour et de désir,Leyla Bouzid,2021
 31412,Les Racines du monde,Byambasuren Davaa,2019
-31368,Les amours d'Anaïs,Charline Bourgeois-Tacquet,2021
+31310,Une histoire d'amour et de désir,Leyla Bouzid,2021
 31462,True Mothers,Naomi Kawase,2020
+31368,Les amours d'Anaïs,Charline Bourgeois-Tacquet,2021
 31308,À l'abordage,Guillaume Brac,2020
 31182,Sweet River,Justin McMillan,2020
 31282,Ce qui reste,Anne Zohra Berrached,2021
@@ -2241,6 +2275,8 @@ ID,Title,Directors,Year
 30609,La Déesse de l'asphalte,Julián Hernández,2020
 30607,Le Déserteur,Maxime Giroux,2018
 30588,Les Héritières,Nolwenn Lemesle,2020
+54085721,Puzzle,Paul Haggis,2013
+30611,Watch List,Ben Rekhi,2019
 30585,Pitchipoï,Charles Najman,2014
 30578,Un mariage sans fin,Maggie Peren,2019
 30719,Bliss,Joe Begos,2019
@@ -2250,13 +2286,15 @@ ID,Title,Directors,Year
 28278,Tricheurs,Barbet Schroeder,1983
 30698,Great White,Martin Wilson,2020
 30543,What Keeps You Alive,Colin Minihan,2018
+54085727,Confession of Murder,Jeong Byeong-gil,2012
+54085715,À la poursuite de Ricky Baker,Taika Waititi,2016
 30697,À l'ombre des regards,Claudia Myers,2019
 30527,De bruit et de fureur,Jean-Claude Brisseau,1988
 30936,Antigone,Sophie Deraspe,2019
 30409,Trois tristes tigres,Raoul Ruiz,1968
 30535,Nevrland,Gregor Schmidinger,2019
-30452,Les Particules,Blaise Harrison,2019
 28090,Le Septième continent,Michael Haneke,1988
+30452,Les Particules,Blaise Harrison,2019
 30514,Funny Games,Michael Haneke,1997
 30511,Défendu,Drake Doremus,2013
 30509,La Reine du crime présente : les meurtres de minuit,Joe Stephenson,2020
@@ -2330,8 +2368,8 @@ ID,Title,Directors,Year
 17365,Infiltrator,Brad Furman,2016
 30120,Charlotte a 17 ans,Sophie Lorain,2018
 30099,Nulle part ailleurs,"David Salazar,Francisco Salazar",2020
-30018,Voulez-vous un bébé Nobel ?,Robert Pouret,1980
 30089,Antoinette dans les Cévennes,Caroline Vignal,2020
+30018,Voulez-vous un bébé Nobel ?,Robert Pouret,1980
 30227,La Main sur la gueule,Arthur Harari,2007
 30070,La Vie de famille,Krzysztof Zanussi,1970
 37651,Demon wind,Charles Philip Moore,1990
@@ -2339,8 +2377,8 @@ ID,Title,Directors,Year
 30290,Harpoon,Rob Grant,2019
 30067,Carbone,Olivier Marchal,2017
 30270,Fin de siècle,Lucio Castro,2019
-30031,Dis-moi oui...,Alexandre Arcady,1995
 22517,Âmes perdues,Dino Risi,1976
+30031,Dis-moi oui...,Alexandre Arcady,1995
 30030,Un drôle de colonel,Jean Girault,1968
 30029,Pour Sacha,Alexandre Arcady,1990
 29993,Le Voyage de Chihiro,Hayao Miyazaki,2001
@@ -2379,7 +2417,6 @@ ID,Title,Directors,Year
 52333,Neuf mois,Márta Mészáros,1976
 52327,Marie,Márta Mészáros,1969
 54065004,Eaux profondes,Michel Deville,1981
-54065972,"Elle boit pas, elle fume pas, elle drague pas, mais... elle cause !",Michel Audiard,1970
 54067266,Les sous-doués en vacances,Claude Zidi,1982
 54059980,Trois pistolets contre César,Enzo Peri,1966
 54060004,Le roman d'un jeune homme pauvre,Ettore Scola,1995
@@ -2394,11 +2431,12 @@ ID,Title,Directors,Year
 54067081,Pour cent briques t'as plus rien !,Edouard Molinaro,1982
 54062523,Les Visiteurs en Amérique,Jean-Marie Poiré,2001
 54061908,Sarraounia,Med Hondo,1986
+54059693,Le Beau Serge,Claude Chabrol,1958
 54065010,Faut pas prendre les enfants du bon Dieu pour des canards sauvages,Michel Audiard,1968
+54065972,"Elle boit pas, elle fume pas, elle drague pas, mais... elle cause !",Michel Audiard,1970
+54067057,Sacré Robin des Bois,Mel Brooks,1993
 54064968,La Chinoise,Jean-Luc Godard,1967
 54059675,"Je suis timide, mais je me soigne",Pierre Richard,1978
-54059693,Le Beau Serge,Claude Chabrol,1958
-54067057,Sacré Robin des Bois,Mel Brooks,1993
 54047712,La Fièvre de l'or,Charlton Heston,1982
 54063057,Le Drapeau noir flotte sur la marmite,Michel Audiard,1970
 54067276,Comment réussir quand on est con et pleurnichard,Michel Audiard,1974
@@ -2408,8 +2446,8 @@ ID,Title,Directors,Year
 54065912,Le Camion,Marguerite Duras,1977
 54064986,Le Gai Savoir,Jean-Luc Godard,1969
 49010,Infernal Affairs III,"Andrew Lau,Alan Mak",2003
-54057773,Papy fait de la Résistance,Jean-Marie Poiré,1983
 54063562,"Ma Belle, My Beauty",Marion Hill,2021
+54057773,Papy fait de la Résistance,Jean-Marie Poiré,1983
 54066463,La Cité des femmes,Federico Fellini,1980
 37639,Alien Zone,Sharron Miller,1978
 54047760,Raphaël ou le débauché,Michel Deville,1971
@@ -2450,7 +2488,6 @@ ID,Title,Directors,Year
 54061644,Chers camarades !,Andreï Konchalovsky,2020
 54046003,Le quatrième pouvoir,Serge Leroy,1985
 53904,Monstrueuses,"Julien David,Yoriko Mizushiri,Joachim Hérissé,Hugo Covarrubias,Lucille Paras,Léahn Vivier-Chapas,Spela Cadez",2023
-54062936,Ciao Ciao,Song Chuan,2017
 54062457,Twist Again à Moscou,Jean-Marie Poiré,1986
 51920,Magdala,Damien Manivel,2022
 54049545,Les aventures fantastiques de Georges Méliès,Georges Méliès,1911
@@ -2465,8 +2502,9 @@ ID,Title,Directors,Year
 54057761,Le Corniaud,Gérard Oury,1965
 49016,Infernal Affairs II,"Alan Mak,Andy Lau",2003
 54067513,Grosse fatigue,Michel Blanc,1994
-54057767,La grande vadrouille,Gérard Oury,1966
 54049335,Le prince et le pauvre,Richard Fleischer,1977
+54062936,Ciao Ciao,Song Chuan,2017
+54057767,La grande vadrouille,Gérard Oury,1966
 29933,Le Chant des scorpions,Anup Singh,2017
 29765,Après l'amour,Diane Kurys,1991
 27701,L'Amour à mort,Alain Resnais,1984
@@ -2482,8 +2520,8 @@ ID,Title,Directors,Year
 19665,La Boum,Claude Pinoteau,1980
 28242,Paris nous appartient,Jacques Rivette,1958
 23263,Mysterious Skin,Gregg Araki,2004
-27957,Pickpocket,Robert Bresson,1959
 21335,Claire Dolan,Lodge Kerrigan,1998
+27957,Pickpocket,Robert Bresson,1959
 28139,Petits arrangements avec les morts,Pascale Ferran,1993
 29826,All Tomorrow's Parties,Yu Lik-wai,2003
 42046,L'Opération Corned Beef,Jean-Marie Poiré,1990
@@ -2507,6 +2545,7 @@ ID,Title,Directors,Year
 29857,Mignonnes,Maimouna Doucouré,2020
 29802,"La Femme des steppes, le flic et l'œuf",Wang Quan'an,2019
 29760,A Perfect Family,Malou Reymann,2020
+54066625,Dans un jardin qu'on dirait éternel,Tatsushi Ohmori,2018
 29647,Les Parfums,",Grégory Magne",2019
 23458,Mise à mort du cerf sacré,Yorgos Lanthimos,2017
 29342,Ha Ha Ha,Hong Sang-soo,2009
@@ -2516,18 +2555,20 @@ ID,Title,Directors,Year
 27447,José,Li Cheng,2018
 29596,Eva en août,Jonás Trueba,2019
 29343,Court-mé-trash,Collectif,2019
+29646,Été 85,François Ozon,2020
 28380,Picpus,Richard Pottier,1942
 28383,Cécile est morte,Maurice Tourneur,1944
 29527,The Demon Inside,Pearry Reginald Teo,2019
 27476,Les guichets du Louvre,Michel Mitrani,1974
 27439,Comme les cinq doigts de la main,Alexandre Arcady,2010
 41157,Une vie,Alexandre Astruc,1958
+29456,Les Meilleures intentions,Ana García Blaya,2019
 27359,Les Beaux menteurs,Bruno Mercier,2019
 27420,Story of Jen,François Rotger,2008
 25185,Les Chatouilles,"Andréa Bescond,Eric Métayer",2018
 27365,Valley of Love,Guillaume Nicloux,2015
-54058997,Destination Mars,Lesley Selander,1951
 27411,Lake Tahoe,Fernando Eimbcke,2007
+54058997,Destination Mars,Lesley Selander,1951
 27410,John John,Brillante Mendoza,2007
 29350,Jumbo,Zoé Wittock,2020
 27407,De la guerre,Bertrand Bonello,2008
@@ -2591,8 +2632,8 @@ ID,Title,Directors,Year
 31138,Une étoile est née (A star is Born),"William A. Wellman,Jack Conway",1937
 31120,The Thundering Herd,Henry Hathaway,1933
 31125,La Bête de la caverne hantée,Monte Hellman,1959
-31129,La Créature de la mer hantée,Roger Corman,1961
 31122,Plus fort que le Diable,John Huston,1953
+31129,La Créature de la mer hantée,Roger Corman,1961
 31134,Aparajito (L'Invaincu),Satyajit Ray,1956
 31133,La Petite boutique des horreurs,Roger Corman,1960
 29427,Benni,Nora Fingscheidt,2017
@@ -2687,6 +2728,7 @@ ID,Title,Directors,Year
 26560,Le Fantôme de l'Opéra,Rupert Julian,1925
 26535,Euforia,Valeria Golino,2018
 24519,Foxtrot,Samuel Maoz,2017
+26896,Nina Wu,Midi Z,2019
 26951,La Sainte famille,Louis-Do de Lencquesaing,2019
 26907,Le Lac Aux Oies Sauvages,Diao Yi'nan,2019
 26881,Notre Dame,"Valérie Donzelli,Valérie Donzelli",2019
@@ -2704,11 +2746,12 @@ ID,Title,Directors,Year
 26858,Gloria Mundi,Robert Guédiguian,2019
 26880,Made in Bangladesh,Rubaiyat Hossain,2019
 26769,"Even Lovers Get the Blues - Sexe, Amour et Mélancolie",Laurent Micheli,2016
+20190,À double tour,"Claude Chabrol,Claude Chabrol",1959
 26570,Van Gogh,Maurice Pialat,1991
 26562,Nous ne vieillirons pas ensemble,Maurice Pialat,1972
 26569,Viva Maria !,Louis Malle,1965
-26571,Police,Maurice Pialat,1985
 26538,Zazie dans le métro,Louis Malle,1960
+26571,Police,Maurice Pialat,1985
 26539,Le Voleur,Louis Malle,1967
 26518,Un singe en hiver,Henri Verneuil,1962
 26533,Mélodie en sous-sol,Henri Verneuil,1963
@@ -2752,22 +2795,17 @@ ID,Title,Directors,Year
 26643,L'Orphelinat,Shahrbanoo Sadat,2019
 53145,Light Sleeper,Paul Schrader,1992
 50986,Deux mi-temps en enfer,Zoltán Fábri,1961
-54045889,Nekromantik 2,Jörg Buttgereit,1991
 51375,Dark Water,Hideo Nakata,2002
 52375,Journal pour mon père et pour ma mère,Márta Mészáros,1990
 52369,Journal à mes amours,Márta Mészáros,1987
 54062151,Les Petits Câlins,Jean-Marie Poiré,1978
-54060753,Le Convoi,Sam Peckinpah,1978
 54069136,Judith Therpauve,Patrice Chéreau,1978
 54065130,Liberty Belle,Pascal Kané,1983
 54069172,Nos Futurs,Rémi Bezançon,2015
-54059351,Ninja : American Warrior,Godfrey Ho,1987
-54059297,La Planète des dinosaures,James K. Shea,1977
 54049437,Little Bird,Boudewijn Koole,2012
 54063316,La Chambre ardente,Julien Duvivier,1961
 54062972,Trap Street,Vivian Qu,2013
 54059986,"Une corde, un colt",Robert Hossein,1969
-54059950,Le Dernier Exorcisme,Daniel Stamm,2010
 54072142,Summertime,Gabriele Muccino,2016
 54071557,Un plan d'enfer,Peter Hewitt,2009
 54058829,Amel et les fauves,Mehdi Hmili,2021
@@ -2776,7 +2814,6 @@ ID,Title,Directors,Year
 47060,Une femme à sa fenêtre,Pierre Granier-Deferre,1976
 54068122,Les Fougères bleues,Françoise Sagan,1977
 54071599,Le Fantôme de Yotsuya,Kenji Misumi,1959
-23201,La vie très privée de Monsieur Sim,Michel Leclerc,2015
 54074422,La Petite Apocalypse,Constantin Costa-Gavras,1993
 54047268,La Nuit fantastique,Marcel L'Herbier,1941
 54071533,La Lapidation de Soraya M.,Cyrus Nowrasteh,2008
@@ -2791,9 +2828,7 @@ ID,Title,Directors,Year
 54076401,Captifs,Yann Gozlan,2010
 54076656,Démons 2,Lamberto Bava,1986
 21143,Le Caïman,Nanni Moretti,2005
-54077316,Rembrandt,Charles Matton,1999
 54069184,La Mort apprivoisée,"Emeric Pressburger,Michael Powell",1949
-54077544,Le Petit Fugitif,"Ruth Orkin,Ray Ashley,Morris Engel",1953
 54075429,Mon pote,Marc Esposito,2010
 54077586,L'Audition,Miloš Forman,1964
 54067748,Le Diable probablement,Robert Bresson,1976
@@ -2807,43 +2842,56 @@ ID,Title,Directors,Year
 54075896,Noyade interdite,Pierre Granier-Deferre,1987
 54070573,Le Général Della Rovere,Roberto Rossellini,1959
 54077622,Cul et chemise,Italo Zingarelli,1979
-54078045,Ma famille et le loup,Adrià García,2019
-54078219,Les SEGPA,"Hakim Boughéraba,Ali Bougheraba",2021
-54078021,Lucky,Olivier Van Hoofstadt,2020
-54076413,Légitime défense,Pierre Lacan,2010
-23271,La Femme d'à côté,François Truffaut,1981
-25436,Le Joueur de flûte,Jacques Demy,1972
-54077853,Les Sœurs Brontë,André Téchiné,1979
-22651,On a failli être amies,Anne Le Ny,2013
-21045,La Loi de Murphy,Christophe Campos,2009
-54078303,Bridget Jones : l'âge de raison,Beeban Kidron,2004
-54077574,Les Amours d'une blonde,Miloš Forman,1965
-54077472,Le Dossier noir,André Cayatte,1955
-54078849,La Rivière,Ghassan Salhab,2021
-17179,101 Reykjavik,Baltasar Kormákur,2000
-54079183,La Troisième Génération,Rainer Werner Fassbinder,1979
-54082057,Grave Encounters 2,John Poliquin,2012
-54080179,Arsène Lupin contre Arsène Lupin,Edouard Molinaro,1962
-46453,On ne meurt que deux fois,Jacques Deray,1985
-54082478,The Birth of Kitaro : The Mystery of GeGeGe,Gô Koga,2023
-54079825,One Piece : Le baron Omatsuri et l'île aux secrets,Mamoru Hosoda,2005
-54079837,One Piece - Episode d'Alabasta : Les Pirates et la princesse du désert,Takahiro Imamura,2007
-54077310,Mami Wata,C.J. Obasi,2023
-54080137,Pas de problème !,Georges Lautner,1975
-54077604,Le bel Antonio,Mauro Bolognini,1960
-56898,Le Prix du danger,Yves Boisset,1983
-54083602,The Listener,Steve Buscemi,2022
 54083608,Melk,Stefanie Kolk,2023
 44959,Les Bonnes femmes,Claude Chabrol,1959
 53725,Blood on Her Name,Matthew Pope,2019
 23176,20th Century Women,Mike Mills,2016
-54083729,Sugar Colt,Franco Giraldi,1967
 54083735,La Soupe aux choux,Jean Girault,1981
-54082069,Wicked City,Yoshiaki Kawajiri,1987
-32529,Le Dernier Loup,Jean-Jacques Annaud,2015
+54078219,Les SEGPA,"Hakim Boughéraba,Ali Bougheraba",2021
+54078021,Lucky,Olivier Van Hoofstadt,2020
+54077853,Les Sœurs Brontë,André Téchiné,1979
+22651,On a failli être amies,Anne Le Ny,2013
+54082057,Grave Encounters 2,John Poliquin,2012
+17179,101 Reykjavik,Baltasar Kormákur,2000
+54079183,La Troisième Génération,Rainer Werner Fassbinder,1979
+54082478,The Birth of Kitaro : The Mystery of GeGeGe,Gô Koga,2023
+54080179,Arsène Lupin contre Arsène Lupin,Edouard Molinaro,1962
+46453,On ne meurt que deux fois,Jacques Deray,1985
+54079837,One Piece - Episode d'Alabasta : Les Pirates et la princesse du désert,Takahiro Imamura,2007
+54079825,One Piece : Le baron Omatsuri et l'île aux secrets,Mamoru Hosoda,2005
+54080137,Pas de problème !,Georges Lautner,1975
 54062127,Les Visiteurs II : Les couloirs du temps,Jean-Marie Poiré,1998
+23201,La vie très privée de Monsieur Sim,Michel Leclerc,2015
+54060753,Le Convoi,Sam Peckinpah,1978
+54077310,Mami Wata,C.J. Obasi,2023
+54082069,Wicked City,Yoshiaki Kawajiri,1987
+54084884,Le Ruffian,José Giovanni,1982
+54084872,Que les gros salaires lèvent le doigt,Denys Granier-Deferre,1982
+54077574,Les Amours d'une blonde,Miloš Forman,1965
+54076413,Légitime défense,Pierre Lacan,2010
+23271,La Femme d'à côté,François Truffaut,1981
+54077472,Le Dossier noir,André Cayatte,1955
+54078849,La Rivière,Ghassan Salhab,2021
+21045,La Loi de Murphy,Christophe Campos,2009
+54078303,Bridget Jones : l'âge de raison,Beeban Kidron,2004
+54077604,Le bel Antonio,Mauro Bolognini,1960
+54083729,Sugar Colt,Franco Giraldi,1967
+54085227,9 semaines 1/2,Adrian Lyne,1986
+46447,L'oeil du malin,Claude Chabrol,1962
+54077316,Rembrandt,Charles Matton,1999
+46081,Landru,Claude Chabrol,1963
+32529,Le Dernier Loup,Jean-Jacques Annaud,2015
+54078045,Ma famille et le loup,Adrià García,2019
+25436,Le Joueur de flûte,Jacques Demy,1972
+54059950,Le Dernier Exorcisme,Daniel Stamm,2010
+54059926,L'Échelle de Jacob,Adrian Lyne,1990
+56898,Le Prix du danger,Yves Boisset,1983
+54077544,Le Petit Fugitif,"Ruth Orkin,Ray Ashley,Morris Engel",1953
+54059297,La Planète des dinosaures,James K. Shea,1977
+54059351,Ninja : American Warrior,Godfrey Ho,1987
+54083602,The Listener,Steve Buscemi,2022
+54045889,Nekromantik 2,Jörg Buttgereit,1991
 54071017,Les Désarrois de l'élève Törless,Volker Schlöndorff,1966
-54070999,A nous les petites Anglaises,Michel Lang,1976
 54070585,Le Cobaye,Brett Leonard,1992
 54070579,Vatel,Roland Joffé,2000
 54071539,The Night,Kourosh Ahari,2020
@@ -2855,7 +2903,6 @@ ID,Title,Directors,Year
 54074104,Un homme de trop,Constantin Costa-Gavras,1967
 54074410,Conseil de famille,Constantin Costa-Gavras,1986
 54071593,Botan doro - La Lanterne pivoine,Satsuo Yamamoto,1968
-54059962,Le Gardien des esprits,Sam Shepard,1992
 54067808,Primadonna,Marta Savina,2022
 54069238,Les Fêtes galantes,René Clair,1965
 54068206,La Petite Bande,Michel Deville,1983
@@ -2865,7 +2912,13 @@ ID,Title,Directors,Year
 54049527,Soleils,"Olivier Delahaye,Dani Kouyaté",2014
 54058949,Les Tueurs de l'Ouest,Eugenio Martín,1966
 54059339,Le Roi des dinosaures,Bert I. Gordon,1955
-54059003,Clash Commando,Godfrey Ho,1986
+56530,Donne-moi la main,Pascal-Alex Vincent,2008
+56976,Plus haut,Nicolas Brévière,2002
+56993,Émilie Jolie,"Philippe Chatel,Francis Nielsen",2010
+54074404,Clair de femme,Constantin Costa-Gavras,1979
+54073840,Contre toi,Lola Doillon,2011
+54075963,Toutes nos envies,Philippe Lioret,2011
+54078165,The Deep House,"Julien Maury,Alexandre Bustillo",2021
 54077418,La Maison de la mort,James Whale,1932
 41223,Buffalo Bill et les Indiens,Robert Altman,1975
 54077562,L'Adolescente,Jeanne Moreau,1979
@@ -2882,29 +2935,18 @@ ID,Title,Directors,Year
 54075435,Les héros ne meurent jamais,Maurizio Lucidi,1969
 54078279,Sous le vent des Marquises,Pierre Godeau,2023
 54078297,Lumière,Jeanne Moreau,1976
-56530,Donne-moi la main,Pascal-Alex Vincent,2008
-56976,Plus haut,Nicolas Brévière,2002
-56993,Émilie Jolie,"Philippe Chatel,Francis Nielsen",2010
-54075794,Sissi face à son destin,Ernst Marischka,1957
-54074404,Clair de femme,Constantin Costa-Gavras,1979
-54073840,Contre toi,Lola Doillon,2011
-54075963,Toutes nos envies,Philippe Lioret,2011
-54078165,The Deep House,"Julien Maury,Alexandre Bustillo",2021
-54071509,The Devil's Conspiracy,Nathan Frankowski,2022
 54076395,West Coast,Benjamin Weill,2016
-51571,The King of New York,Abel Ferrara,1990
+54074434,Violent Streets - Quartier violent,Hideo Gosha,1974
 54059447,Europa,Lars von Trier,1991
 27048,Warning : Do Not Play,Kim Jin-won,2019
-54074434,Violent Streets - Quartier violent,Hideo Gosha,1974
 54069886,Une Histoire immortelle,Orson Welles,1968
 54076023,La Nuit aux amants,Julien Hilmoine,2021
 54074667,Knock,Lorraine Levy,2017
 54079549,Pas d'chicane dans ma cabane !,Sandrine Brodeur-Desrosiers,2022
 54077628,Danse macabre,Antonio Margheriti,1964
-33224,Hexagone,Malik Chibane,1994
-54076650,Démons 1,Lamberto Bava,1985
-54078129,Vivre en paix,Luigi Zampa,1947
 54072934,La Corruption,Mauro Bolognini,1963
+54078129,Vivre en paix,Luigi Zampa,1947
+54076650,Démons 1,Lamberto Bava,1985
 54080197,Le Joueur,Claude Autant-Lara,1958
 54062763,Madame Bovary,,1991
 54078633,Marguerite de la nuit,Claude Autant-Lara,1955
@@ -2912,13 +2954,13 @@ ID,Title,Directors,Year
 54078993,Cache-cash,Claude Pinoteau,1994
 54079351,Pourquoi monsieur R. est-il atteint de folie meurtrière ?,"Rainer Werner Fassbinder,Michael Fengler",1970
 54075423,Magic in the Moonlight,Woody Allen,2014
-54081320,Evil Dead Trap 2,Izô Hashimoto,1992
 19690,Ripoux 3,Claude Zidi,2003
-54079441,Les Yeux de l'amour,Denys de La Patellière,1959
+54081320,Evil Dead Trap 2,Izô Hashimoto,1992
 54079435,Liste noire,Alain Bonnot,1984
+54079441,Les Yeux de l'amour,Denys de La Patellière,1959
 54079537,Jardin d'été (The Friends),Shinji Sômai,1994
-54080215,Demon City Shinjuku,Yoshiaki Kawajiri,1988
 54080149,La Vie dissolue de Gérard Floque,Georges Lautner,1987
+54080215,Demon City Shinjuku,Yoshiaki Kawajiri,1988
 54078999,La Gifle,Claude Pinoteau,1974
 54080581,Lévy et Goliath,Gérard Oury,1987
 54080707,Junon et le paon,Alfred Hitchcock,1930
@@ -2926,11 +2968,26 @@ ID,Title,Directors,Year
 54060801,Fanfan,Alexandre Jardin,1992
 54077058,Tout le monde m'appelle Mike,Guillaume Bonnier,2023
 54075957,Tour de France,Rachid Djaïdani,2016
-54076668,Frankenhooker,Frank Henenlotter,1990
 16930,La Lumière des étoiles mortes,Charles Matton,1993
 54083741,L'Aile ou la cuisse,Claude Zidi,1976
-54071551,Revenge,Coralie Fargeat,2017
 54079819,One Piece : La Malédiction de l'épée sacrée,Kazuhisa Takenouchi,2004
+54070999,A nous les petites Anglaises,Michel Lang,1976
+51571,The King of New York,Abel Ferrara,1990
+54075794,Sissi face à son destin,Ernst Marischka,1957
+54071551,Revenge,Coralie Fargeat,2017
+54085059,La Faille,Peter Fleischmann,1975
+54085221,Guinguette,Jean Delannoy,1959
+54074008,A l'Est de Shanghaï,Alfred Hitchcock,1931
+54081266,Nick Carter va tout casser,Henri Decoin,1964
+54071509,The Devil's Conspiracy,Nathan Frankowski,2022
+54085233,Austerlitz,Abel Gance,1960
+46441,Numéro 17,Alfred Hitchcock,1932
+54076668,Frankenhooker,Frank Henenlotter,1990
+54081242,L'Homme de Londres,Henri Decoin,1943
+54081254,Maléfices,Henri Decoin,1962
+54059962,Le Gardien des esprits,Sam Shepard,1992
+54059003,Clash Commando,Godfrey Ho,1986
+33224,Hexagone,Malik Chibane,1994
 54067724,Les Rivières pourpres,Mathieu Kassovitz,2000
 54069658,Game Girls,Alina Skrzeszewska,2018
 54047780,Dealer,Jeroen Perceval,2021
@@ -2940,11 +2997,8 @@ ID,Title,Directors,Year
 52357,Cati,Márta Mészáros,1968
 53133,Le cirque des horreurs,Sidney Hayers,1959
 51932,Le Saut de l'ange,Yves Boisset,1971
-55018,The Sleeping Negro,Skinner Myers,2021
 54067483,L'affaire Crazy Capo,Patrick Jamain,1973
 54057755,Les Bronzés 3 : amis pour la vie,Patrice Leconte,2006
-54045901,Entre chiens et loups,Alexandre Arcady,2002
-54059135,La Fiancée de la jungle,Adrian Weiss,1958
 54061788,Le Dernier bain,David Bonneville,2020
 54062121,Les anges gardiens,Jean-Marie Poiré,1995
 54076017,Nomades,Olivier Coussemacq,2019
@@ -2955,8 +3009,8 @@ ID,Title,Directors,Year
 54063550,Sans toi,Sophie Guillemin,2021
 54077046,L'incroyable alligator,Lewis Teague,1980
 54077610,"Bonnes funérailles, amis... Sartana paiera",Giuliano Carnimeo,1970
-54074098,Compartiment tueurs,Constantin Costa-Gavras,1965
 54069208,Big Gay Love,Ringo Le,2013
+54074098,Compartiment tueurs,Constantin Costa-Gavras,1965
 54069904,Le Dernier Prisonnier,Bujar Alimani,2019
 52411,"Henry, portrait d'un serial killer",John McNaughton,1986
 54077580,"Au feu, les pompiers !",Miloš Forman,1967
@@ -2965,46 +3019,58 @@ ID,Title,Directors,Year
 48968,Les Femmes des autres,Damiano Damiani,1963
 55744,Bianca,Nanni Moretti,1983
 22398,Pile ou face,Robert Enrico,1980
+54050061,Pulse,Sergii Chebotarenko,2021
+54075315,Le Secret des banquises,Marie Madinier,2016
+54075309,"Robin des Bois, la véritable histoire",Anthony Marciano,2015
+45571,Fort Saganne,Alain Corneau,1984
+45979,Je vais craquer !!!,François Leterrier,1979
+54078027,L'Esprit de famille,Eric Besnard,2019
+54074691,Un ange pour Satan,Camillo Mastrocinque,1966
+54078141,Bonne Conduite,Jonathan Barré,2023
+54078819,Le Dernier Homme,Ghassan Salhab,2006
+54074841,Monsieur Verdoux,Charles Chaplin,1946
+54080203,Le Journal d'une femme en blanc,Claude Autant-Lara,1965
+54078627,Le Magot de Josefa,Claude Autant-Lara,1963
+54078639,Les Patates,Claude Autant-Lara,1969
 54079159,L'Année des treize lunes,Rainer Werner Fassbinder,1978
 54079165,Martha,Rainer Werner Fassbinder,1973
 54082051,Grave Encounters,"The Vicious Brothers,Stuart Ortiz,Colin Minihan",2011
 54082045,Evil Dead Trap,Toshiharu Ikeda,1988
+54078741,Le Comte de Monte Cristo,Claude Autant-Lara,1961
+54065996,Identification d'une femme,Michelangelo Antonioni,1982
 54079429,Est-ce bien raisonnable ?,Georges Lautner,1981
-54082496,One Piece : Le Film,Junji Shimizu,2000
 54079801,One Piece : L'aventure de l'île de l'horloge,Junji Shimizu,2001
 54079423,Le Dos au mur,Edouard Molinaro,1958
 54077466,A chacun son enfer,André Cayatte,1977
-54078819,Le Dernier Homme,Ghassan Salhab,2006
-54075309,"Robin des Bois, la véritable histoire",Anthony Marciano,2015
-45571,Fort Saganne,Alain Corneau,1984
-45979,Je vais craquer !!!,François Leterrier,1979
-54050061,Pulse,Sergii Chebotarenko,2021
-54075315,Le Secret des banquises,Marie Madinier,2016
-54078027,L'Esprit de famille,Eric Besnard,2019
-54074691,Un ange pour Satan,Camillo Mastrocinque,1966
-54065996,Identification d'une femme,Michelangelo Antonioni,1982
-54077520,"Taxi, roulotte et corrida",André Hunebelle,1958
-54078141,Bonne Conduite,Jonathan Barré,2023
-54074841,Monsieur Verdoux,Charles Chaplin,1946
-54080203,Le Journal d'une femme en blanc,Claude Autant-Lara,1965
-44971,Le Journal de Bridget Jones,Sharon Maguire,2001
-54078627,Le Magot de Josefa,Claude Autant-Lara,1963
-54078639,Les Patates,Claude Autant-Lara,1969
-31808,Margin call,J.C. Chandor,2010
 41329,Le Lys brisé,D.W. Griffith,1919
+31808,Margin call,J.C. Chandor,2010
 54080563,La Bête s'éveille,Joseph Losey,1954
-54080587,La Menace,Gérard Oury,1961
 54080593,La Soif de l'or,Gérard Oury,1993
+54080587,La Menace,Gérard Oury,1961
 54072724,Canailles,Christophe Offenstein,2022
+54080719,Le Gentleman d'Epsom,Gilles Grangier,1962
 54083596,Leçon de conduite,Gilles Grangier,1946
 54083584,Driving Mum,Hilmar Oddsson,2022
-54080719,Le Gentleman d'Epsom,Gilles Grangier,1962
 54075975,The House of the Devil,Ti West,2009
 54075981,Les Infidèles,"Emmanuelle Bercot,Fred Cavayé,Alexandre Courtès,Jean Dujardin,Michel Hazanavicius,Gilles Lellouche,Eric Lartigau,Jan Kounen",2012
 54078189,Le Grand Cirque,"Gaëlle Falzerana,Booder",2023
 54069214,Daddy,Gerald McCullouch,2015
 46147,Ma femme s'appelle reviens,Patrice Leconte,1981
-54078741,Le Comte de Monte Cristo,Claude Autant-Lara,1961
+54083765,Las demás,Alexandra Hyland,2023
+54084526,Les Vieux de la vieille,Gilles Grangier,1960
+54080761,"Marie-Antoinette, reine de France",Jean Delannoy,1956
+55018,The Sleeping Negro,Skinner Myers,2021
+54077520,"Taxi, roulotte et corrida",André Hunebelle,1958
+54082496,One Piece : Le Film,Junji Shimizu,2000
+54085245,Where is Parsi ?,Henri Helman,1984
+54082862,Joyeux Noël,Christian Carion,2005
+54081817,La Ligne de démarcation,Claude Chabrol,1966
+54085349,Amphetamine,Scud Scud,2010
+54082153,Dernier vol pour l'enfer,Ignazio Dolce,1990
+44971,Le Journal de Bridget Jones,Sharon Maguire,2001
+54059135,La Fiancée de la jungle,Adrian Weiss,1958
+54059591,Ce que le jour doit à la nuit,Alexandre Arcady,2012
+54045901,Entre chiens et loups,Alexandre Arcady,2002
 54074086,Violent Panic : The Big Crash,Kinji Fukasaku,1976
 54074080,Shogun's Samurai,Kinji Fukasaku,1978
 54071224,Gamera : La Revanche d'Iris,Shûsuke Kaneko,1999
@@ -3014,7 +3080,6 @@ ID,Title,Directors,Year
 18597,L'Important c'est d'aimer,Andrzej Zuławski,1974
 54069196,Les Belles de nuit,René Clair,1952
 54066523,Ma vie avec Dalí,Mary Harron,2022
-54047822,Wildhood,Bretten Hannam,2021
 54067003,Le Château de verre,René Clément,1950
 54059974,Les Terreurs de l'Ouest,Marino Girolami,1964
 54069916,Hors du monde,Marc Fouchard,2020
@@ -3028,7 +3093,6 @@ ID,Title,Directors,Year
 54059920,Holocaust 2000,Alberto De Martino,1977
 54063556,Endless Night,Sidney Gilliat,1972
 54062948,Death in the Land of Encantos,Lav Diaz,2007
-54059813,The Hideous Sun Demon,"Tom Boutross,Robert Clarke",1958
 54058955,Le Retour de Ringo,Duccio Tessari,1965
 54072802,Twisted Nerve,Roy Boulting,1968
 54072436,Mutants,David Morley,2009
@@ -3039,7 +3103,6 @@ ID,Title,Directors,Year
 54059015,L'autre femme,François Villiers,1964
 54075399,Submarine,Richard Ayoade,2010
 54067093,Les Félins,René Clément,1964
-54077568,"Affreux, sales et méchants",Ettore Scola,1976
 54074092,L'Aveu,Constantin Costa-Gavras,1970
 54071503,The Communion Girl,Víctor García,2022
 54059657,Zillion,Robin Pront,2022
@@ -3054,6 +3117,11 @@ ID,Title,Directors,Year
 54077052,Maniac Cop,William Lustig,1988
 54077484,Le Miroir à deux faces,André Cayatte,1958
 18595,Hélas pour moi,Jean-Luc Godard,1992
+54068230,Gardiens de l'ordre,Nicolas Boukhrief,2010
+54079675,Le Téléphone rose,Edouard Molinaro,1975
+54075207,The Last Face,Sean Penn,2017
+54079201,Sweeney 2,Tom Clegg,1978
+54079195,Sweeney !,David Wickes,1977
 54078645,Le Rouge et le noir,Claude Autant-Lara,1954
 29903,Boutchou,Adrien Piquet-Gauthier,2020
 54082484,Dragon Ball Z : Battle of Gods,Masahiro Hosoda,2013
@@ -3061,18 +3129,23 @@ ID,Title,Directors,Year
 54080131,L'invité surprise,Georges Lautner,1989
 54080143,Triplex,Georges Lautner,1991
 54078153,Le Clan,Eric Fraticelli,2022
-54071023,Jane Got a Gun,Gavin O'Connor,2015
-54068230,Gardiens de l'ordre,Nicolas Boukhrief,2010
-54079675,Le Téléphone rose,Edouard Molinaro,1975
-54075207,The Last Face,Sean Penn,2017
-54079201,Sweeney 2,Tom Clegg,1978
-54079195,Sweeney !,David Wickes,1977
-17157,The Machinist,Brad Anderson,2003
-54075987,The Innkeepers,Ti West,2011
 18866,Le Fils de l'épicier,Éric Guirado,2007
 54075405,Le Colosse de Rhodes,Sergio Leone,1961
-54071581,Hotel Salvation,Shubhashish Bhutiani,2018
 54075951,Quand je serai petit,Jean-Paul Rouve,2012
+17157,The Machinist,Brad Anderson,2003
+54047822,Wildhood,Bretten Hannam,2021
+54084520,Trente et quarante,Gilles Grangier,1945
+54081404,Le Masque de fer,Henri Decoin,1962
+54081416,Pourquoi viens-tu si tard ?,Henri Decoin,1959
+54071581,Hotel Salvation,Shubhashish Bhutiani,2018
+54075987,The Innkeepers,Ti West,2011
+54071023,Jane Got a Gun,Gavin O'Connor,2015
+54085343,Si tu veux,Philipp Karner,2015
+54081841,Le Tigre se parfume à la dynamite,Claude Chabrol,1965
+54085517,Les Orphelins,Olivier Schneider,2025
+54077568,"Affreux, sales et méchants",Ettore Scola,1976
+54081602,"Mannaja, l'homme à la hache",Sergio Martino,1977
+54059813,The Hideous Sun Demon,"Tom Boutross,Robert Clarke",1958
 30497,The Other Side,"Tord Danielsson,Oskar Mellander",2020
 54071164,Un soir de réveillon,Karl Anton,1933
 54074428,Snow Woman,Tokuzô Tanaka,1968
@@ -3080,18 +3153,15 @@ ID,Title,Directors,Year
 21064,La Rafle,Roselyne Bosch,2009
 54067826,Crimes au musée des horreurs,Arthur Crabtree,1959
 54066709,Le Jour et l'heure,René Clément,1962
-54069166,La Guerre des Miss,Patrice Leconte,2009
 54065960,Pot-Bouille,Julien Duvivier,1957
 20800,The Riot Club,Lone Scherfig,2013
 54063304,"Allô Berlin, ici Paris",Julien Duvivier,1932
 54062960,La Légende de Kaspar Hauser,Davide Manuli,2011
 54045877,Harem,Arthur Joffé,1985
-54059141,L'Île inconnue,Jack Bernhard,1948
 54049491,Keaton en quatre,"Eddie Cline,Buster Keaton",1922
 54072154,Beau rivage,Julien Donada,2010
 54076005,Azor,Andreas Fontana,2021
 54076035,Together Alone,P.J. Castellaneta,1991
-54072796,Le Grand Pardon,Alexandre Arcady,1982
 54076371,Quatre Mouches de velours gris,Dario Argento,1971
 54057996,Car Crash - Revivre ou périr,Sun-ho Cho,2017
 54073828,Mères et filles,Julie Lopes-Curval,2009
@@ -3109,14 +3179,11 @@ ID,Title,Directors,Year
 54080155,Beyrouth fantôme,Ghassan Salhab,1998
 54077514,Les Possédés,Andrzej Wajda,1988
 54075465,SOS Concorde,Ruggero Deodato,1979
-54078195,Inestimable,Eric Fraticelli,2023
 54058008,Ghost Therapy,Clay Tatum,2022
 54075902,To Rome With Love,Woody Allen,2012
 54073240,Berlin Boys,David Wnendt,2023
-54078579,Les Rayons Gamma,Henry Bernadet,2023
 54077538,Mort ou vif,Gary Sherman,1987
 54077064,Mistral spatial,Marc-Antoine Lemire,2022
-54077028,La Course à la mort de l'an 2000,Paul Bartel,1975
 54078249,Les Segpa au ski,"Hakim Bougheraba,Ali Bougheraba",2023
 54074116,Z,Constantin Costa-Gavras,1969
 31738,Comme des garçons,Julien Hallard,2017
@@ -3124,10 +3191,8 @@ ID,Title,Directors,Year
 54077532,Désaccord parfait,Antoine de Caunes,2006
 54068715,La Messe est finie,Nanni Moretti,1985
 54078561,Bridget Jones Baby,Sharon Maguire,2016
-54080191,Le Franciscain de Bourges,Claude Autant-Lara,1967
 54071140,Typhoon Club,Shinji Sômai,1985
 54079189,Ripoux contre Ripoux,Claude Zidi,1990
-54082063,Lake Mungo,Joel Anderson,2008
 54079843,One Piece - Episode de Chopper : Le Miracle des cerisiers en hiver,Junji Shimizu,2008
 54079807,"One Piece : Le Royaume de Chopper, l'île des bêtes étranges",Junji Shimizu,2002
 54082490,Dragon Ball Z : La Résurrection de F,Tadayoshi Yamamuro,2015
@@ -3135,6 +3200,19 @@ ID,Title,Directors,Year
 54079669,Peau d'espion,Edouard Molinaro,1967
 54080569,La Furie des vampires,León Klimovsky,1971
 54083632,Un monde pour Julius,Rossana Diaz Costa,2021
+54080191,Le Franciscain de Bourges,Claude Autant-Lara,1967
+54082063,Lake Mungo,Joel Anderson,2008
+54078195,Inestimable,Eric Fraticelli,2023
+54084890,Force majeure,Pierre Jolivet,1989
+54078579,Les Rayons Gamma,Henry Bernadet,2023
+54072796,Le Grand Pardon,Alexandre Arcady,1982
+54081811,Le Cheval d'orgueil,Claude Chabrol,1980
+54082165,La Rançon de la peur,Umberto Lenzi,1974
+54082147,L'Affaire des poisons,Henri Decoin,1955
+54082159,La Fureur des gladiateurs,Mario Caiano,1964
+54059141,L'Île inconnue,Jack Bernhard,1948
+54069166,La Guerre des Miss,Patrice Leconte,2009
+54077028,La Course à la mort de l'an 2000,Paul Bartel,1975
 50604,Salvatore Giuliano,Francesco Rosi,1962
 26821,Matthias et Maxime,Xavier Dolan,2019
 26389,Evil Boy,Olga Gorodetskaya,2019
@@ -3175,7 +3253,6 @@ ID,Title,Directors,Year
 26231,Allons enfants,Stéphane Demoustier,2018
 26165,Désirs interdits,José Célestino Campusano,2019
 26420,Never Grow Old,Ivan Kavanagh,2019
-26195,Le Bal de l'horreur,Paul Lynch,1980
 20109,Ma vie de Courgette,Claude Barras,2015
 23132,La Couleur de la victoire,Stephen Hopkins,2016
 26176,Un nouveau printemps,Richard LeMay,2012
@@ -3188,10 +3265,10 @@ ID,Title,Directors,Year
 26591,Une fille facile,Rebecca Zlotowski,2019
 26139,Fort intérieur,"Ru Kuwahata,Max Porter,Lénaïg Le Moigne,Osman Cerfon,Nienke Deutz,Martina Scarpelli,Samuel Albaric,Martin Wiklund,Ulysse Lefort,Fabien Corre,Kelsi Phung",2018
 24750,Le Dossier Mona Lina,Eran Riklis,2017
-26140,Les Mondes imaginaires de Jean-François Laguionie,Jean-François Laguionie,1970
 24743,Una questione privata,"Vittorio Taviani,Paolo Taviani",2017
-17233,À propos d'Elly,Asghar Farhadi,2009
 24710,Un couteau dans le coeur,Yann Gonzalez,2018
+17233,À propos d'Elly,Asghar Farhadi,2009
+26140,Les Mondes imaginaires de Jean-François Laguionie,Jean-François Laguionie,1970
 24900,Le Poirier sauvage,Nuri Bilge Ceylan,2017
 23996,La Lune de Jupiter,Kornel Mundruczó,2016
 20193,Le Client,Asghar Farhadi,2016
@@ -3199,16 +3276,16 @@ ID,Title,Directors,Year
 21377,Back home,Joachim Trier,2015
 18207,La Fête du Feu,Asghar Farhadi,2006
 24598,Trois visages,Jafar Panahi,2018
-25238,Amanda,Mikhaël Hers,2018
 21797,Ma Loute,Bruno Dumont,2016
+25238,Amanda,Mikhaël Hers,2018
 23328,120 battements par minute,Robin Campillo,2017
 20615,Winter Sleep,Nuri Bilge Ceylan,2013
 24545,La Révolution silencieuse,Lars Kraume,2017
 23179,Le Caire confidentiel,Tarik Saleh,2016
-20156,Ida,Pawel Pawlikowski,2013
 24432,Wajib - L'Invitation au mariage,Annemarie Jacir,2017
 24083,La Fiancée du désert,"Cecilia Atan,Valeria Pivato",2017
 23182,"Jeannette, l'enfance de Jeanne d'Arc",Bruno Dumont,2016
+20156,Ida,Pawel Pawlikowski,2013
 26271,Yuli,Icíar Bollaín,2018
 26131,Le Jeune Ahmed,"Jean-Pierre Dardenne,Luc Dardenne",2019
 26281,Conséquences,Darko Stante,2018
@@ -3284,8 +3361,8 @@ ID,Title,Directors,Year
 25881,Le Film du poilu,Henri Desfontaines,1928
 25998,Le Grand cirque,Georges Péclet,1950
 25660,Youth,Paolo Sorrentino,2015
-25664,Submarino,Thomas Vinterberg,2010
 25661,La Reconstitution,Lucian Pintilie,1969
+25664,Submarino,Thomas Vinterberg,2010
 25648,Cal,Christian Martin,2012
 25827,Gypsy,Martin Sulík,2011
 25592,J'avoue tout,Mark Bessenger,2016
@@ -3324,8 +3401,8 @@ ID,Title,Directors,Year
 25559,L'Amour debout,Michaël Dacheux,2018
 22946,Louise en hiver,Jean-François Laguionie,2016
 25553,"Moi, Maman, ma mère et moi",Christophe Le Masne,2018
-25564,Lords of Chaos,Jonas Akerlund,2018
 25453,Zama,Lucrecia Martel,2017
+25564,Lords of Chaos,Jonas Akerlund,2018
 25463,Il se passe quelque chose,Anne Alix,2018
 25567,Entre les roseaux,Mikko Makela,2017
 25531,Abracadabra,Pablo Berger,2017
@@ -3335,8 +3412,8 @@ ID,Title,Directors,Year
 25558,Les Drapeaux de papier,Nathan Ambrosioni,2018
 25445,4 Lunes,Sergio Tovar Velarde,2014
 25443,Tartuffe,Friedrich Wilhelm Murnau,1925
-25506,Tout ce qu'il me reste de la révolution,Judith Davis,2018
 25446,Tout sur ma mère,Pedro Almodóvar,1998
+25506,Tout ce qu'il me reste de la révolution,Judith Davis,2018
 25437,Brève histoire d'amour,Krzysztof Kieslowski,1988
 25407,Contes de juillet,Guillaume Brac,2017
 25427,L'Amour à la mer,Guy Gilles,1963
@@ -3359,8 +3436,8 @@ ID,Title,Directors,Year
 25346,"Patagonia, el invierno",Emiliano Torres,2016
 25341,Le Maître du logis,Carl Theodor Dreyer,1925
 25336,L'Atlantide,Georg Wilhelm Pabst,1932
-25340,L'Homme à la caméra,Dziga Vertov,1929
 25337,Une Chambre en ville,Jacques Demy,1982
+25340,L'Homme à la caméra,Dziga Vertov,1929
 25344,Vampyr,Carl Theodor Dreyer,1930
 25324,Le Désordre et la nuit,Gilles Grangier,1957
 23467,Que la fête commence,Bertrand Tavernier,1975
@@ -3371,6 +3448,7 @@ ID,Title,Directors,Year
 25311,L'Inhumaine,Marcel L'Herbier,1924
 25290,Tout contre elle,Gabriel Le Bomin,2018
 25413,In My Room,Ulrich Köhler,2018
+54066619,Asako I & II,Ryūsuke Hamaguchi,2018
 25411,Marche ou crève,Margaux Bonhomme,2018
 25412,L'Heure de la sortie,Sébastien Marnier,2018
 25405,"Utoya, 22 juillet",Erik Poppe,2018
@@ -3382,9 +3460,9 @@ ID,Title,Directors,Year
 25351,Un beau voyou,Lucas Bernard,2017
 25278,Domingo,"Fellipe Barbosa,Clara Linhart",2018
 25440,L'Amateur,Krzysztof Kieslowski,1979
-25347,La Permission,Soheil Beiraghi,2018
 25237,Une Vie après,Jean-Marc Brondolo,2018
 25428,Au pan coupé,Guy Gilles,1968
+25347,La Permission,Soheil Beiraghi,2018
 25263,Lions Love (and Lies),Agnès Varda,1969
 25430,Le Clair de terre,Guy Gilles,1969
 25431,Crainquebille,Jacques Feyder,1922
@@ -3399,8 +3477,8 @@ ID,Title,Directors,Year
 25333,Wildlife : une saison ardente,Paul Dano,2018
 25312,Maya,Mia Hansen-Løve,2018
 32161,Pupille,Jeanne Herry,2018
-25298,Invasion,Shahram Mokri,2017
 25313,Mon père,,2017
+25298,Invasion,Shahram Mokri,2017
 25299,Sophia Antipolis,Virgil Vernier,2018
 25539,"Nous, les coyotes","Hanna Ladoul,Marco La Via",2018
 21911,La Tortue rouge,Michael Dudok de Wit,2016
@@ -3437,12 +3515,13 @@ ID,Title,Directors,Year
 25061,Trois Couleurs - Blanc,Krzysztof Kieslowski,1993
 25186,"Sami, une jeunesse en Laponie",Amanda Kernell,2016
 25084,Ultra rêve,"Bertrand Mandico,Caroline Poggi,Jonathan Vinel,Yann Gonzalez",2017
+25197,La Saveur des ramen,Eric Khoo,2018
 25079,L'Amour flou,"Romane Bohringer,Philippe Rebbot",2018
 25059,Daphné,Peter Mackie Burns,2016
 25078,Thunder Road,Jim Cummings,2018
 25141,The House That Jack Built,Lars von Trier,2018
-25138,Heureux comme Lazzaro,Alice Rohrwacher,2018
 25060,Trois Couleurs - Bleu,Krzysztof Kieslowski,1993
+25138,Heureux comme Lazzaro,Alice Rohrwacher,2018
 25140,La Particule humaine,Semih Kaplanoğlu,2017
 25082,He Loves Me,Konstantinos Menelaou,2018
 25134,Cold War,Pawel Pawlikowski,2018
@@ -3458,6 +3537,7 @@ ID,Title,Directors,Year
 25037,O Grande Circo Místico,Carlos Diegues,2018
 25039,Riga (Take 1),Siegfried,2017
 25023,L'Économie du couple,Joachim Lafosse,2015
+21946,Moka,Frédéric Mermoud,2015
 21170,Much Loved,Nabil Ayouch,2015
 25002,Je sais tomber,Alain Tasma,2018
 25014,Rafiki,Wanuri Kahiu,2018
@@ -3466,15 +3546,16 @@ ID,Title,Directors,Year
 25036,Leçon de classes,Jan Hrebejk,2016
 25004,Nos étoiles,Chris Miera,2017
 48299,L'Amour est une fête,Cédric Anger,2018
+33132,Invasion,Kiyoshi Kurosawa,2017
 32577,Un peuple et son roi,Pierre Schoeller,2018
 24979,1000 Visages : Cinéastes de demain,"Emma Benestan,Holy Fatma,Laurie Lassalle,Houda Benyamina",2016
 24988,Sollers Point - Baltimore,Matt Porterfield,2017
 50920,Macadam Baby,Patrick Bossard,2013
 25901,Mon Inconnue,Hugo Gélin,2019
-54058943,24h chez les Martiens,Kurt Neumann,1950
 54047256,Mais ne nous délivrez pas du mal,"Philippe Gosselet,Joël Séria",1970
 53922,Un film d'amour,István Szabó,1970
 54062978,Une vie simple,Ann Hui,2011
+54058943,24h chez les Martiens,Kurt Neumann,1950
 52345,Elles deux,Márta Mészáros,1977
 54063298,L'Affaire Maurizius,Julien Duvivier,1954
 54062966,Shadow Days,Zhao Dayong,2014
@@ -3486,12 +3567,12 @@ ID,Title,Directors,Year
 53151,Le Seul témoin,Peter Hyams,1990
 53719,The Caller,Matthew Parkhill,2011
 54063063,Du rififi chez les hommes,Jules Dassin,1954
-54062463,Les Visiteurs,Jean-Marie Poiré,1993
 54059956,Le Massacre des morts-vivants,Jorge Grau,1974
 53139,J'ai le droit de vivre,Fritz Lang,1936
-54058062,Next of Kin,Tony Williams,1982
 51147,Fedora,Billy Wilder,1978
 51183,Garçon d'honneur,Ang Lee,1993
+54058062,Next of Kin,Tony Williams,1982
+54062463,Les Visiteurs,Jean-Marie Poiré,1993
 24925,Eva,Benoît Jacquot,2017
 24921,Le Bonheur,Agnès Varda,1965
 24987,Shéhérazade,Jean-Bernard Marlin,2018
@@ -3647,9 +3728,10 @@ ID,Title,Directors,Year
 24093,Paradis,Andreï Konchalovsky,2016
 24092,600 euros,Adnane Tragha,2015
 19728,Le Fossé,Wang Bing,2010
-23422,Don Jon,Joseph Gordon Levitt,2013
 24039,M,Sara Forestier,2016
+23422,Don Jon,Joseph Gordon Levitt,2013
 21279,Avril et le monde truqué,"Franck Ekinci,Christian Desmares",2015
+33164,Muse,Jaume Balagueró,2017
 23966,Hawking - La tête dans les étoiles,Philip Martin,2004
 23999,La Belle et la meute,Kaouther Ben Hania,2017
 24000,Zaineb n'aime pas la neige,Kaouther Ben Hania,2015
@@ -3682,11 +3764,11 @@ ID,Title,Directors,Year
 23662,Best of Chéries Chéris volume 4,"Fábio Leal,Ricky Mastro,Denisse Quintero,Rodrigo Alvarez Flores,Simone Bozzelli,Marco Leão,André Santos",2016
 23557,Le Jeune Karl Marx,Raoul Peck,2017
 23559,L'Atelier,Laurent Cantet,2016
-23558,Grandeur et décadence d'un petit commerce de cinéma,Jean-Luc Godard,1985
 18901,Nuit bleue,Ange Leccia,2009
 23465,Le choix des armes,Alain Corneau,1981
 23517,Un beau soleil intérieur,Claire Denis,2017
 23518,Lola Pater,Nadir Moknèche,2017
+38723,Good Time,"Benny Safdie,Joshua Safdie,Benny Safdie",2017
 23455,Beach Rats,Eliza Hittman,2017
 23402,L'heure d'été,Olivier Assayas,2006
 23439,Les Filles d'Avril,Michel Franco,2016
@@ -3710,10 +3792,10 @@ ID,Title,Directors,Year
 53713,Relaxer,Joel Potrykus,2018
 54060915,Django tire le premier,Alberto De Martino,1966
 54047748,Les Liens du sang,Manuel Martín Cuenca,2021
-54059345,Ninja in Action : le gang des crapules,Godfrey Ho,1987
 54048002,Les Rois du gag,Claude Zidi,1984
 54060777,Le Sang de Fu Manchu,Jesús Franco,1968
 54047382,L'Au-delà,Lucio Fulci,1981
+54059345,Ninja in Action : le gang des crapules,Godfrey Ho,1987
 54059807,La Montagne mystérieuse,"Ismael Rodríguez,Edward Nassour",1956
 54047304,L'Enfer des zombies,Lucio Fulci,1979
 54060285,Fête sanglante,Amy Holden Jones,1982
@@ -3721,12 +3803,13 @@ ID,Title,Directors,Year
 52209,Mine de rien,Mathias Mlekuz,2019
 29759,Adorables,Solange Cicurel,2020
 54045288,Les Bronzés font du ski,Patrice Leconte,1979
-54059009,Bébé vampire,John Hayes,1975
 53115,Possum,Matthew Holness,2018
+54059009,Bébé vampire,John Hayes,1975
 23332,Petit Paysan,Hubert Charuel,2016
 23337,Le Prix du succès,Teddy Lussi-Modeste,2016
 48986,Le Secret derrière la porte,Fritz Lang,1948
 23329,Avant la fin de l'été,Maryam Goormaghtigh,2016
+26184,Wake in Fright - Réveil dans la terreur,Ted Kotcheff,1971
 23330,Bonne pomme,Florence Quentin,2016
 23320,Drôles d'oiseaux,Élise Girard,2016
 23318,Dream Boat,Tristan Ferland Milewski,2016
@@ -3762,6 +3845,7 @@ ID,Title,Directors,Year
 23230,Été 93,Carla Simón,2016
 23235,One Kiss,Ivan Cotroneo,2016
 22485,7 Below,Kevin Carraway,2012
+23228,Bonheur académie,Alain Della Negra,2015
 23225,La Terre penche,Christelle Lheureux,2015
 23284,Tom of Finland,Dome Karukoski,2016
 23214,Where Horses Go to Die,Antony Hickling,2015
@@ -3839,10 +3923,10 @@ ID,Title,Directors,Year
 22995,Album de famille,Mehmet Can Mertoglu,2016
 22921,Shaun of the dead,Edgar Wright,2004
 17918,Le Dictateur,Charlie Chaplin,1939
-22996,Lettres de la guerre,Ivo Ferreira,2016
 22919,La planète sauvage,René Laloux,1973
-17607,Deux ou trois choses que je sais d'elle,Jean-Luc Godard,1966
+22996,Lettres de la guerre,Ivo Ferreira,2016
 20389,La Vague,Dennis Gansel,2008
+17607,Deux ou trois choses que je sais d'elle,Jean-Luc Godard,1966
 21343,Le Juge et l'Assassin,Bertrand Tavernier,1975
 17993,Mister Freedom,William Klein,1969
 22914,Les Mauvaises herbes,Louis Bélanger,2016
@@ -3895,6 +3979,7 @@ ID,Title,Directors,Year
 19527,Hawaii,Marco Berger,2013
 22273,Le Kid,"Charlie Chaplin,Charles Chaplin",1919
 16760,Marions-nous !,Mary Agnes Donoghue,2015
+16754,Jamais contente,Emilie Deleuze,2016
 20865,Delicatessen,"Jean-Pierre Jeunet,Marc Caro,Marc Caro",1990
 19517,La Pianiste,"Michael Haneke,Michael Haneke",2000
 19518,Code inconnu,Michael Haneke,2000
@@ -3936,12 +4021,13 @@ ID,Title,Directors,Year
 22230,Personal Shopper,Olivier Assayas,2015
 22232,Beginners,Mike Mills,2010
 26152,Cosmos,"Jennifer Alleyn,Manon Briand,Marie-Julie Dallaire,André Turpin,Denis Villeneuve,Arto Paragamian",1997
+22228,L'Odyssée,Jérôme Salle,2016
 20169,Une semaine et un jour,Asaph Polonsky,2016
 20170,Une Semaine ordinaire,Peter Glanz,2014
 18411,L'Exercice de l'Etat,Pierre Schoeller,2011
 24215,Looking for Simon,Jan Krüger,2011
-20191,Sex Doll,Sylvie Verheyde,2016
 22217,Une Vie,Stéphane Brizé,2016
+20191,Sex Doll,Sylvie Verheyde,2016
 20623,Comrades,Bill Douglas,1986
 22212,Theeb : La naissance d'un chef,Naji Abu Nowar,2014
 20184,Stratton,Simon West,2017
@@ -3970,8 +4056,9 @@ ID,Title,Directors,Year
 20202,Nocturama,Bertrand Bonello,2016
 16895,Au Loin s'en vont les nuages,Aki Kaurismäki,1995
 16812,"Elsie, monogame en série","Christina Zeidler,John Mitchell",2015
-22109,"Léon Morin, prêtre",Jean-Pierre Melville,1961
+21029,Un enfant de toi,Jacques Doillon,2012
 22106,Peur sur la ville,Henri Verneuil,1975
+22109,"Léon Morin, prêtre",Jean-Pierre Melville,1961
 20171,Only Lovers Left Alive,Jim Jarmusch,2012
 21433,Pierrot le Fou,Jean-Luc Godard,1965
 22102,La Danseuse,Stéphanie Di Giusto,2016
@@ -4008,8 +4095,8 @@ ID,Title,Directors,Year
 22633,Ballerina,"Eric Summer,Eric Warin",2016
 52429,L'île aux pirates,Renny Harlin,1994
 54047376,Frayeurs,Lucio Fulci,1980
-55450,The Limits of Control,Jim Jarmusch,2009
 54049167,Mary et Max,Adam Elliot,2008
+55450,The Limits of Control,Jim Jarmusch,2009
 21813,Poulet aux prunes,"Marjane Satrapi,Vincent Paronnaud",2011
 21949,Seoul Station,Sang-ho Yeon,2016
 21947,Dernier Train pour Busan,Sang-ho Yeon,2016
@@ -4044,7 +4131,6 @@ ID,Title,Directors,Year
 20287,Paulina,Santiago Mitre,2015
 20341,Le Fils de Joseph,Eugène Green,2016
 21913,Diana,Oliver Hirschbiegel,2013
-21658,Les Filles au Moyen Âge,Hubert Viel,2014
 20301,John From,João Nicolau,2015
 20296,Sparrows,Rúnar Rúnarsson,2015
 20234,Juillet Août,Diastème,2016
@@ -4060,7 +4146,6 @@ ID,Title,Directors,Year
 21740,L'Histoire officielle,Luis Puenzo,1984
 20233,Tous les chats sont gris,Savina Dellicour,2014
 21846,Bella e perduta,Pietro Marcello,2015
-21840,Wake in Fright - Réveil dans la terreur,Ted Kotcheff,1971
 20310,Baden Baden,Rachel Lang,2016
 21799,Théo et Hugo dans le même bateau,"Olivier Ducastel,Jacques Martineau",2016
 21794,Layla in the Sky,Micah Magee,2015
@@ -4134,8 +4219,8 @@ ID,Title,Directors,Year
 21537,Eva,Kike Maíllo,2011
 21538,Enter the Void,Gaspar Noé,2008
 21512,La femme en vert,Roy William Neill,1945
-21522,El Clan,Pablo Trapero,2015
 21521,Peur de rien,Danielle Arbid,2014
+21522,El Clan,Pablo Trapero,2015
 20231,Natür Therapy,Ole Giæver,2014
 45511,"Espion, lève-toi",Yves Boisset,1982
 21503,Le Trésor,Corneliu Porumboiu,2014
@@ -4187,9 +4272,9 @@ ID,Title,Directors,Year
 20463,Comment c'est loin,"Orelsan,Christophe Offenstein",2015
 20466,Le Grand Jeu,Nicolas Pariser,2015
 20461,Life of Crime,Daniel Schechter,2013
-20321,My Sweet Pepper Land,Hiner Saleem,2013
 21396,Le Lâche,Satyajit Ray,1965
 21395,Le Héros,Satyajit Ray,1966
+20321,My Sweet Pepper Land,Hiner Saleem,2013
 21394,La Grande Ville,Satyajit Ray,1963
 21419,Tangerine,Sean Baker,2015
 21373,Kaboom,Gregg Araki,2009
@@ -4213,8 +4298,8 @@ ID,Title,Directors,Year
 21407,Tokyo fiancée,Stefan Liberski,2013
 21167,Playtime,Jacques Tati,1967
 21302,Les Vacances de Monsieur Hulot,"Jacques Tati,Jacques Tati",1951
-21294,Mon Oncle,Jacques Tati,1958
 21297,Trafic,Jacques Tati,1971
+21294,Mon Oncle,Jacques Tati,1958
 21316,The Murderer,"Hong-jin Na,Na Hong-jin",2010
 21317,Touristes,Ben Wheatley,2012
 20490,Catch Me Daddy,Daniel Wolfe,2014
@@ -4241,6 +4326,7 @@ ID,Title,Directors,Year
 20548,L'Ennemi de la classe,Rok Bicek,2014
 19283,"Leopardi, il giovane favoloso",Mario Martone,2014
 23355,Le Cercle rouge,Jean-Pierre Melville,1970
+54085673,Sexy Beast,Jonathan Glazer,2000
 20413,"Elser, un héros ordinaire",Oliver Hirschbiegel,2015
 20411,Cemetery of Splendour,Apichatpong Weerasethakul,2015
 21264,Naguima,Zhanna Issabayeva,2013
@@ -4352,6 +4438,7 @@ ID,Title,Directors,Year
 32342,Les Aventures de Rabbi Jacob,Gérard Oury,1973
 20858,Chelli,Asaf Korman,2014
 20854,Loin de mon père,Keren Yedaya,2013
+33171,Final Hours,Zak Hilditch,2013
 21096,Histoire de Judas,Rabah Ameur-Zaïmeche,2014
 21097,"Wesh Wesh, qu'est-ce qui se passe ?",Rabah Ameur-Zaïmeche,2001
 21134,Por las plumas,Neto Villalobos,2013
@@ -4384,8 +4471,8 @@ ID,Title,Directors,Year
 20822,Le Voyage,Fernando Ezequiel Solanas,1990
 20821,Le Nuage,Fernando Ezequiel Solanas,1998
 21141,Difret,Zeresenay Mehari,2014
-20804,A Girl At my Door,July Jung,2013
 20806,Someone You Love,Pernille Fischer Christensen,2014
+20804,A Girl at My Door,July Jung,2013
 20803,"Terra Nullius, confessions d'un mercenaire",Salomé Lamas,2012
 20801,The Smell Of Us,Larry Clark,2013
 49077,The Cut,Fatih Akin,2013
@@ -4417,6 +4504,7 @@ ID,Title,Directors,Year
 20733,Vie sauvage,Cédric Kahn,2013
 20728,Snö,Simon Kaijser,2012
 20727,Lilies - Les Feluettes,John Greyson,1996
+21053,Oscar,Edouard Molinaro,1967
 20730,Bad Lieutenant,Abel Ferrara,1992
 20714,Tuer un homme,Alejandro Fernández Almendras,2014
 20713,"Eka et Natia, chronique d'une jeunesse géorgienne","Nana Ekvtimishvili,Simon Groß",2013
@@ -4452,6 +4540,7 @@ ID,Title,Directors,Year
 16762,Reaching for the Moon,Bruno Barreto,2013
 25008,16 courts métrages des Maisons closes,Anonyme,1905
 17382,Les Petits Ruisseaux,Pascal Rabaté,2009
+20635,La Dune,Yossi Aviram,2012
 20634,Nights and Weekends,"Joe Swanberg,Greta Gerwig",2008
 20627,Ligne d'eau,Tomasz Wasilewski (Woszczynski),2013
 20624,Shapito Show - partie 2,Sergey Loban,2011
@@ -4564,6 +4653,7 @@ ID,Title,Directors,Year
 20344,Le Cours étrange des choses,Raphaël Nadjari,2013
 20195,L'Éclipse,"Michelangelo Antonioni,Michelangelo Antonioni",1961
 30887,Pontypool,Bruce McDonald,2008
+20028,Henri,Yolande Moreau,2013
 18405,"Wajma, une fiancée afghane",Barmak Akram,2012
 20087,When Night Is Falling,Patricia Rozema,1995
 20070,Le Chant des sirènes,Patricia Rozema,1986
@@ -4625,11 +4715,14 @@ ID,Title,Directors,Year
 26108,Danse dans la poussière,Asghar Farhadi,2003
 19726,El estudiante ou récit d'une jeunesse révoltée,Santiago Mitre,2011
 19725,La Bataille de Solférino,Justine Triet,2012
+19862,La Religieuse,Guillaume Nicloux,2013
 19738,Roc & Canyon,Sophie Letourneur,2007
 19736,Blonde et Brune,Christine Dory,2004
 19980,Keep smiling,Rusudan Chkonia,2011
+19608,"Tirez la langue, Mademoiselle",Axelle Ropert,2012
 19601,"Ma meilleure amie, sa sœur et moi",Lynn Shelton,2011
 19600,Two Lovers,James Gray,2007
+19598,Grand Central,"Rebecca Zlotowski,Rebecca Zlotowski",2013
 54062469,Notturno,Gianfranco Rosi,2019
 22715,Twelve,Joel Schumacher,2010
 54059897,Charlie Countryman,Fredrik Bond,2012
@@ -4669,14 +4762,14 @@ ID,Title,Directors,Year
 19505,Generation War (3/3),Philipp Kadelbach,2012
 18574,Louise Wimmer,Cyril Mennegun,2011
 19493,Good As You,Mariano Lamberti,2011
-18386,Un amour de jeunesse,Mia Hansen-Løve,2010
 19354,Elefante Blanco,Pablo Trapero,2012
+18386,Un amour de jeunesse,Mia Hansen-Løve,2010
 19485,"Bi, n'aie pas peur !",Dang Di Phan,2009
 19040,A Serious Man,"Joel Coen,Ethan Coen",2009
 19478,Frances Ha,Noah Baumbach,2012
 19466,Just The Wind,Bence Fliegauf,2012
-19447,[REC],Jaume Balagueró Et Paco Plaza,2007
 19460,Le Carnaval des âmes,"Harold ""herk"" Harvey",1962
+19447,[REC],Jaume Balagueró Et Paco Plaza,2007
 19463,Les Beaux jours,Marion Vernoux,2012
 22059,L'Âge atomique,Héléna Klotz,2011
 19432,La Fille du 14 juillet,Antonin Peretjatko,2012
@@ -4697,8 +4790,8 @@ ID,Title,Directors,Year
 19385,Ombline,Stéphane Cazes,2011
 19360,Demain ?,Christine Laurent,2011
 19346,Les Coquillettes,Sophie Letourneur,2011
-19347,A Perfect Ending,Nicole Conn,2011
 19339,Le Repenti,Merzak Allouache,2012
+19347,A Perfect Ending,Nicole Conn,2011
 19338,L'Été d'Alexa,Aaron Douglas Johnston,2010
 19330,Somebody Up There Likes Me,Bob Byington,2012
 19337,Les Voisins de Dieu,Meni Yaesh,2011
@@ -4813,6 +4906,7 @@ ID,Title,Directors,Year
 18106,Another Year,Mike Leigh,2010
 18584,Belle de jour,Luis Buñuel,1966
 18768,"Ulysse, souviens-toi !",Guy Maddin,2010
+54085733,Ill Manors : La Cité de la violence,Ben Drew,2012
 18744,Le Paradis des bêtes,Estelle Larrivaz,2011
 25876,Les Ailes de la renommée,Otakar Votocek,1990
 30121,Loin du paradis,Todd Haynes,2001
@@ -4858,6 +4952,7 @@ ID,Title,Directors,Year
 18617,Mulholland Drive,David Lynch,2001
 18615,Tristana,Luis Buñuel,1969
 18612,Sous le sable,François Ozon,2000
+26100,Cría cuervos,Carlos Saura,1976
 18604,Pépé le Moko,Julien Duvivier,1936
 18607,Le Petit Criminel,Jacques Doillon,1990
 18650,La Journée de la jupe,Jean-Paul Lilienfeld,2008
@@ -4866,8 +4961,8 @@ ID,Title,Directors,Year
 18600,Lantana,Ray Lawrence,2000
 18586,Casque d'or,Jacques Becker,1951
 18583,Ballroom Dancing,Baz Luhrmann,1991
-18579,8 femmes,François Ozon,2002
 18581,Arizona Dream,Emir Kusturica,1992
+18579,8 femmes,François Ozon,2002
 18593,Le Déjeuner sur l'herbe,"Jean Renoir,Jean Renoir",1959
 18596,Le Grand Silence (de Sergio Corbucci),Sergio Corbucci,1968
 18602,Le Mépris,Jean-Luc Godard,1963
@@ -4955,24 +5050,25 @@ ID,Title,Directors,Year
 18165,"Santiago 73, post mortem",Pablo Larraín,2010
 18162,Après la chute,Hiner Saleem,2007
 18161,Le Choix de Luna,Jasmila Zbanic,2009
+18160,L'Absence,Cyril de Gasperis,2008
 18155,La Robe du soir,Myriam Aziza,2009
 18156,Ma compagne de nuit,Isabelle Brocard,2009
 18158,Autour de la maison rose,"Joana Hadjithomas,Khalil Joreige",1999
-18153,La Chaise (La Silla),Julio D. Wallovits,2005
+18153,La Silla (La Chaise),Julio D. Wallovits,2005
 18149,Memory Lane,Mikhaël Hers,2009
 18095,Intervention divine,Elia Suleiman,2001
-18113,Indigène d'Eurasie,Sharunas Bartas,2010
+18083,Demain dès l'aube,Denis Dercourt,2009
 18111,Norteado,Rigoberto Pérezcano,2009
 18090,Happy Few,Antony Cordier,2009
-18083,Demain dès l'aube,Denis Dercourt,2009
+18113,Indigène d'Eurasie,Sharunas Bartas,2010
 18122,Import/Export,Ulrich Seidl,2007
 18114,Home Sweet Home,Didier Le Pêcheur,2007
-18108,Une vie toute neuve,Ounie Lecomte,2009
 18103,Pieds nus sur les limaces,Fabienne Berthaud,2009
-18115,Poupoupidou,Gérald Hustache-Mathieu,2010
 16795,Une famille brésilienne,"Walter Salles,Daniela Thomas",2008
-18085,Amore,Luca Guadagnino,2009
+18115,Poupoupidou,Gérald Hustache-Mathieu,2010
+18108,Une vie toute neuve,Ounie Lecomte,2009
 18080,L'Empreinte,Safy Nebbou,2008
+18085,Amore,Luca Guadagnino,2009
 18077,Chatroom,Hideo Nakata,2010
 44995,Bully,Larry Clark,2001
 32752,Blood Island,Jang Cheol-soo,2010
@@ -4986,7 +5082,6 @@ ID,Title,Directors,Year
 17882,La baie des anges,Jacques Demy,1963
 17481,La Bataille d'Alger,Gillo Pontecorvo,1966
 17542,La Grande illusion,Jean Renoir,1937
-17483,Ma nuit chez Maud,Éric Rohmer,1969
 17669,Kadosh - Sacré,Amos Gitai,1999
 17494,Leaving Las Vegas,Mike Figgis,1995
 18011,L'Aquarium,Yousry Nasrallah,2007
@@ -5005,9 +5100,9 @@ ID,Title,Directors,Year
 17930,Qui êtes-vous Polly Maggoo ?,William Klein,1967
 17552,Une famille parfaite,"Pierre Trividic,Patrick-Mario Bernard",2005
 17962,Le Pont du nord,Jacques Rivette,1980
-17538,Le Voleur de bicyclette,Vittorio de Sica ,1947
 17785,Céline et Julie vont en bateau,Jacques Rivette,1973
 17920,Que la bête meure,Claude Chabrol,1969
+17538,Le Voleur de bicyclette,Vittorio de Sica ,1947
 17063,Forever,Damjan Kozole,2007
 17119,Katalin Varga,Peter Strickland,2008
 16469,Après la vie,Lucas Belvaux,2001
@@ -5025,7 +5120,6 @@ ID,Title,Directors,Year
 17312,Elles ne pensent qu'à ça,Charlotte Dubreuil,1993
 17194,"Beur, blanc, rouge",Mahmoud Zemmouri,2005
 16703,Le Soleil assassiné,Abdelkrim Bahloul,2002
-16598,Ne dis rien,Icíar Bollaín,2002
 16675,Total Western,Eric Rochant,1999
 16714,Du poil sous les roses,"Agnès Obadia,Jean-Julien Chervier",1999
 16507,Le Petit voleur,Erick Zonca,1998
@@ -5034,22 +5128,14 @@ ID,Title,Directors,Year
 17026,Bruxelles-transit,Samy Szlingerbaum,1980
 16719,Romaine,Agnès Obadia,1996
 16600,Omagh,Pete Travis,2004
-17314,La Femme secrète,Sébastien Grall,1986
 16528,Les Derniers jours d'Emmanuel Kant,Philippe Collin,1992
-16587,Le Fil de la vie,Anders Ronnow-Klarlund\t,2004
 17040,En route,Jan H. Krüger,2004
-17065,Pièces détachées,Damjan Kozole,2002
 17049,La Vie sexuelle des Belges,Jan Bucquoy,1994
 16503,Ne te retourne pas,Marina de Van,2007
-17202,Sans nouvelles de Dieu,Agustín Díaz Yanes,2001
 16457,Le Chaos,"Youssef Chahine,Khaled Youssef",2007
 16660,L'Échappée belle (1995),Etienne Dhaene,1995
 16986,Jar City,Baltasar Kormákur,2006
-17327,La Nuit sacrée,Nicolas Klotz,1992
-16459,"Tirana, année zéro",Fatmir Koçi,2000
 16717,"Mille millièmes, fantaisie immobilière",Rémi Waterhouse,2002
-17073,Champions,Marek Najbrt,2004
-17110,Orlando Vargas,Juan Pittaluga,2005
 16702,Sans plomb,Muriel Teodori,1999
 16896,Bye bye America,Jan Schütte,1993
 16916,Mientras tanto,Diego Lerman,2006
@@ -5060,19 +5146,30 @@ ID,Title,Directors,Year
 17370,L'Arbre et la forêt,"Jacques Martineau,Olivier Ducastel",2008
 17231,Somers Town,Shane Meadows,2008
 17342,Une vieille maîtresse,Catherine Breillat,2007
-17061,Estrellita,Metod Pevec,2007
 17046,Le Retour de l'idiot,Sasa Gedeon,1999
 17352,Vincere,Marco Bellocchio,2009
 16506,Parano,"Alain Robak,John Hudson,Yann Piquer,Manuel Flèche,Anita Assal",1993
 16829,Défense d'aimer,Rodolphe Marconi,2000
 17219,Le Sens de la vie pour 9.99 $,Tatia Rosenthal,2008
-17118,Le Père de mes enfants,Mia Hansen-Løve,2008
 16452,Twentynine palms,Bruno Dumont,2002
-17319,Isabelle Eberhardt,Ian Pringle,1990
 16470,L'Argent fait le bonheur,Robert Guédiguian,1992
 16949,Chansons du deuxième étage,Roy Andersson,2000
-17058,Les Grandes Personnes,Anna Novion,2007
+17319,Isabelle Eberhardt,Ian Pringle,1990
 16564,Entre les murs,Laurent Cantet,2007
+16598,Ne dis rien,Icíar Bollaín,2002
+16587,Le Fil de la vie,Anders Ronnow-Klarlund\t,2004
+17058,Les Grandes Personnes,Anna Novion,2007
+17118,Le Père de mes enfants,Mia Hansen-Løve,2008
+17202,Sans nouvelles de Dieu,Agustín Díaz Yanes,2001
+17073,Champions,Marek Najbrt,2004
+17061,Estrellita,Metod Pevec,2007
+17110,Orlando Vargas,Juan Pittaluga,2005
+17065,Pièces détachées,Damjan Kozole,2002
+17108,Le Loup de la côte ouest,Hugo Santiago,2001
+17327,La Nuit sacrée,Nicolas Klotz,1992
+17324,Marthe,Jean-Loup Hubert,1996
+17314,La Femme secrète,Sébastien Grall,1986
+16459,"Tirana, année zéro",Fatmir Koçi,2000
 17369,Les Mains libres,Brigitte Sy,2010
 17027,Septième ciel,Andreas Dresen,2007
 16556,Tout le plaisir est pour moi,Isabelle Broué,2003
@@ -5081,14 +5178,12 @@ ID,Title,Directors,Year
 16440,Cheb,Rachid Bouchareb,1990
 16439,Barrage,Raphaël Jacoulot,2004
 16785,Coeur allumé,Hector Babenco,1997
-17121,Mariage à l'islandaise,Valdís Óskarsdóttir,2008
 17051,Les Vacances de Noël,Jan Bucquoy,2005
 17094,L'Étrangère,Florence Colombani,2006
 17221,Amerrika,Cherien Dabis,2009
 16693,La Fiancée syrienne,Eran Riklis,2004
 17083,J'me sens pas belle,Bernard Jeanjean,2003
 16674,The Day the Ponies Come Back,Jerry Schatzberg,1999
-17072,Wrong side up,Petr Zelenka,2004
 17288,In the Loop,Armando Iannucci,2008
 16449,One Dollar Curry,Vijay Singh,2003
 16756,Le Doux amour des hommes,Jean Paul Civeyrac,2001
@@ -5113,32 +5208,29 @@ ID,Title,Directors,Year
 16841,Bridget,Amos Kollek,2001
 16473,Cavale,Lucas Belvaux,2001
 17367,Ames en stock,Sophie Barthes,2009
-17124,Strella,Panos H. Koutras,2008
-17248,Le Baiser de l'ours,Sergueï Bodrov,2002
 16446,Kolonel Bunker,Kujtim Cashku,1996
 17206,Salaam Bombay,Mira Nair,1988
 17331,"Pasolini, mort d'un poète",Marco Tullio Giordana,1995
 17030,Children,Ragnar Bragason,2006
 17066,Ultime évasion,Rupert Wyatt,2008
 16450,Petite chérie,Anne Villacèque,1999
-17224,Hors jeu,Jafar Panahi,2005
-16973,Brodeuses,Eléonore Faucher,2004
-16679,Le Voyage à Paris,Marc-Henri Dufresne,1998
-16746,Les Apprentis,Pierre Salvadori,1995
-17264,Urga,Nikita Mikhalkov,1991
-17103,El Mar,Agustí Villaronga,1999
-16865,Les Méduses,"Etgar Keret,Shira Geffen",2006
-16521,La Ville est tranquille,Robert Guédiguian,1999
-16467,L'Âge des possibles,Pascale Ferran,1995
-16817,Presque frères,Lucia Murat,2004
 17259,Soleil trompeur,Nikita Mikhalkov,1993
 16824,Beijing Bicycle,Wang Xiaoshuai,2000
-16574,Ressources Humaines,Laurent Cantet,1999
 16562,L'Emploi du temps,Laurent Cantet,2001
 17059,Better Things,Duane Hopkins,2008
 16969,Café de la plage,Benoît Graffin,2001
 16483,Haut les coeurs !,Solveig Anspach,1998
 16519,Tontaine et Tonton,Tonie Marshall,1999
+17224,Hors jeu,Jafar Panahi,2005
+16973,Brodeuses,Eléonore Faucher,2004
+16679,Le Voyage à Paris,Marc-Henri Dufresne,1998
+16746,Les Apprentis,Pierre Salvadori,1995
+17103,El Mar,Agustí Villaronga,1999
+17264,Urga,Nikita Mikhalkov,1991
+16865,Les Méduses,"Etgar Keret,Shira Geffen",2006
+16521,La Ville est tranquille,Robert Guédiguian,1999
+16467,L'Âge des possibles,Pascale Ferran,1995
+16817,Presque frères,Lucia Murat,2004
 16731,Tout pour plaire,Cécile Telerman,2004
 16814,Candy Mountain,"Robert Frank,Rudy Wurlitzer",1987
 16711,À toute vitesse,Gaël Morel,1996
@@ -5150,6 +5242,13 @@ ID,Title,Directors,Year
 16502,Nature contre nature,Lucas Belvaux,2004
 16520,Vénus beauté (institut),Tonie Marshall,1998
 16681,Eldorado,Bouli Lanners,2007
+16574,Ressources Humaines,Laurent Cantet,1999
+17072,Wrong Side Up,Petr Zelenka,2004
+17112,Saltimbank,Jean-Claude Biette	,2002
+17121,Mariage à l'islandaise,Valdís Óskarsdóttir,2008
+17105,Freedom,Sharunas Bartas,1999
+17124,Strella,Panos H. Koutras,2008
+17248,Le Baiser de l'ours,Sergueï Bodrov,2002
 17035,Montag,Ulrich Köhler,2006
 16680,Méfie-toi de l'eau qui dort,Jacques Deschamps,1996
 17197,L'Honneur de la tribu,Mahmoud Zemmouri,1993
@@ -5157,27 +5256,20 @@ ID,Title,Directors,Year
 16980,Depuis qu'Otar est parti,Julie Bertuccelli,2002
 16438,La Bande du drugstore,François Armanet,2001
 16845,Daratt,Mahamat-Saleh Haroun,2006
-17071,Faithless games,Michaela Pavlátová,2002
-17003,Damnation,Béla Tarr,1987
 16975,Mister V.,Emilie Deleuze,2002
 16965,Le Birdwatcher,Gabriel Auer,1999
 16694,Un héros ordinaire,Michele Placido,1996
 16716,J'ai tué Clémence Acéra,Jean-Luc Gaget,2000
-17273,Falafel,Michel Kammoun,2006
 17201,Psycho Beach Party,Robert Lee King,2000
-17376,Orpailleur,Marc Barrat,2009
 17001,Lettre à l'Amérique,Iglika Triffonova,2000
 17099,Comic act,Jack Hazan,1997
-17355,L'Homme de Londres,"Béla Tarr,Ágnes Hranitzky",2006
 17249,Le Barbier de Sibérie,Nikita Mikhalkov,1996
 16465,"A la vie, à la mort !",Robert Guédiguian,1994
 17346,Téhéran,Nader T. Homayoun,2009
 16993,Le Travail rend libre,Damjan Kozole,2004
 16967,Royal bonbon,Charles Najman,2002
 16740,Belhorizon,Inès Rabadán,2004
-17267,L'Ombre de la ville,Jean Khalil Chamoun,2000
 16666,Prospero's books,Peter Greenaway,1991
-17087,Amorosa Soledad,"Martin Carranza,Victoria Galardi",2008
 17193,La Fille de tes rêves,Fernando Trueba,1998
 16691,Falling into paradise,Milos Radovic,2005
 17033,Armin,Ognjen Svilicic,2007
@@ -5190,11 +5282,9 @@ ID,Title,Directors,Year
 17228,Leonera,Pablo Trapero,2007
 17008,Un petit carrousel de fête,Zoltán Fábri,1955
 17050,La Jouissance des hystériques,Jan Bucquoy,2000
-17306,La Chambre 108,Daniel Moosmann,1992
 17012,Psaume rouge,Miklós Jancsó,1971
 16749,Circuit Carole,Emmanuelle Cuau,1994
 17092,Alice,Marco Martins,2004
-16476,Culpabilité zéro,"Cédric Kahn,Cédric Kahn",1996
 17117,Tu n'aimeras point,Haim Tabakman,2009
 17181,Ce que je sais d'elle... d'un simple regard,Rodrigo Garcia,2000
 16977,Le Temps des porte-plumes,Daniel Duval,2005
@@ -5204,7 +5294,6 @@ ID,Title,Directors,Year
 16726,Ma caméra et moi,Christophe Loizillon,2001
 16738,Aaltra,"Benoît Delépine,Gustave Kervern",2003
 16453,La Vie de Jésus,Bruno Dumont,1996
-17357,Daniel et Ana,Michel Franco,2009
 16981,La Chose publique,Mathieu Amalric,2002
 16856,Je m'appelle Elisabeth,Jean-Pierre Améris,2005
 16972,Bord de mer,Julie Lopes-Curval,2001
@@ -5214,18 +5303,29 @@ ID,Title,Directors,Year
 16970,Le New Yorker,Benoît Graffin,1997
 16668,Max et Bobo,Frédéric Fonteyne,1997
 16558,Après lui,Gaël Morel,2006
-16515,Stormy Weather,Solveig Anspach,2002
 16557,"Va, vis et deviens",Radu Mihaileanu,2004
 17183,Chevauchée avec le diable,Ang Lee,1999
 16815,La Ciénaga,Lucrecia Martel,2001
+17032,Shotgun Stories,Jeff Nichols,2006
+16515,Stormy Weather,Solveig Anspach,2002
+17003,Damnation,Béla Tarr,1987
+17355,L'Homme de Londres,"Béla Tarr,Ágnes Hranitzky",2006
+16476,Culpabilité zéro,"Cédric Kahn,Cédric Kahn",1996
 16437,Baboussia,Lidia Bobrova,2003
-16712,A plus Pollux,Luc Pagès,2001
 16672,Ratcatcher,Lynne Ramsay,1998
 17322,La Jeune Fille et la Mort,Roman Polanski,1994
 17135,La Vallée des fleurs,Pan Nalin,2006
-17032,Shotgun Stories,Jeff Nichols,2006
+16828,De force avec d'autres,Simon Reggiani,1993
+17357,Daniel et Ana,Michel Franco,2009
+16712,A plus Pollux,Luc Pagès,2001
+17071,Faithless games,Michaela Pavlátová,2002
+17093,Deux,Werner Schroeter,2001
+17087,Amorosa Soledad,"Martin Carranza,Victoria Galardi",2008
+17376,Orpailleur,Marc Barrat,2009
+17267,L'Ombre de la ville,Jean Khalil Chamoun,2000
+17306,La Chambre 108,Daniel Moosmann,1992
+17273,Falafel,Michel Kammoun,2006
 17354,Plein sud,Sébastien Lifshitz,2008
-16589,In this world,Michael Winterbottom,2002
 16720,Les Yeux brouillés,Rémi Lange,1999
 16517,Les Terres froides,Sébastien Lifshitz,1998
 16758,Drôle de Félix,"Jacques Martineau,Olivier Ducastel",1999
@@ -5236,7 +5336,6 @@ ID,Title,Directors,Year
 17013,Silence et cri,Miklós Jancsó,1968
 17199,Ada dans la jungle,Gérard Zingg,1988
 16591,Kiss of life,Emily Young,2003
-17345,Les Barons,Nabil Ben Yadir,2008
 17018,Rouges et blancs,Miklós Jancsó,1967
 17282,Ce cher mois d'août,Miguel Gomes,2007
 16943,Japon,Carlos Reygadas,2002
@@ -5261,13 +5360,9 @@ ID,Title,Directors,Year
 16696,Ma soeur chinoise,Alain Mazars,1993
 17305,Les Caprices d'un fleuve,Bernard Giraudeau,1995
 17031,Des chiens dans la neige,Ann-Kristin Reyels,2006
-17062,Sous sa fenêtre,Metod Pevec,2003
 16968,"7 jours, 7 nuits",Joel Cano,2003
-17283,Paria,Nicolas Klotz,2000
 16705,Le Soleil,Alexandre Sokourov,2004
 16442,Gardien de buffles,Nghiem-Minh Nguyen-Vo\t,2004
-17387,Le Sauveur,Michel Mardore,1971
-17310,Confidences à un inconnu,Georges Bardawil,1994
 16772,Mutum,Sandra Kogut,2006
 16842,Buenos Aires 100 km,Pablo José Meza,2004
 16709,La Manipulation,Marius Theodor Barna,2000
@@ -5295,10 +5390,20 @@ ID,Title,Directors,Year
 17036,Guernesey,Nanouk Leopold,2004
 16553,"Pour aller au ciel, il faut mourir",Djamshed Usmonov,2005
 16563,Emporte-moi,Léa Pool,1996
+16589,In this world,Michael Winterbottom,2002
 16474,Un couple épatant,Lucas Belvaux,2001
 16534,Saint-Cyr,Patricia Mazuy,1999
 16855,Les Invasions barbares,Denys Arcand,2002
+17353,Yuki et Nina,"Nobuhiro Suwa,Hippolyte Girardot",2008
 16621,La Haine,Mathieu Kassovitz,1994
+17310,Confidences à un inconnu,Georges Bardawil,1994
+17057,Le Chant des mariées,Karin Albou,2008
+17387,Le Sauveur,Michel Mardore,1971
+17366,La Régate,Bernard Bellefroid,2009
+17098,Ce jour-là,Raoul Ruiz,2003
+17062,Sous sa fenêtre,Metod Pevec,2003
+17345,Les Barons,Nabil Ben Yadir,2008
+17283,Paria,Nicolas Klotz,2000
 16713,L'Arrière pays,Jacques Nolot,1997
 16741,Caste criminelle,Yolande Zauberman,1990
 16686,La Comédie de l'innocence,Raoul Ruiz,1999
@@ -5315,7 +5420,6 @@ ID,Title,Directors,Year
 16617,La Forêt de Mogari,Naomi Kawase,2007
 17164,Nos retrouvailles,David Oelhoffen,2006
 16493,Les Marchands de sable,Pierre Salvadori,1999
-16816,L'Ours rouge,Israel Adrián Caetano,2001
 16535,Le Tango des Rashevski,Sam Garbarski,2002
 17245,Treeless Mountain,So Yong Kim,2008
 16522,La Voleuse de Saint-Lubin,Claire Devers,1999
@@ -5327,20 +5431,12 @@ ID,Title,Directors,Year
 16956,Wonderful Town,Aditya Assarat,2007
 17039,Marseille,Angela Schanelec,2003
 17038,Voyage scolaire,Henner Winckler,2003
-16827,De l'eau tiède sous un pont rouge,Shôhei Imamura,2000
 16804,Avant l'oubli,Augustin Burger,2003
-17335,Sale destin !,Sylvain Madigan,1986
 17000,Le Dernier Film soviétique,"Alexandrs Petukhovs,Alexander Hahn",2003
 16898,Ce répondeur ne prend pas de messages,Alain Cavalier,1978
 16485,Innocence,Lucile Hadzihalilovic,2003
-17308,La Capture,Carole Laure,2006
 17289,City Island,Raymond de Felitta,2008
-17284,Sombre,Philippe Grandrieux,1998
-16685,Clara,Helma Sanders-Brahms,2007
 17044,La Forêt sans nom,Shinji Aoyama,2002
-17320,Jane Eyre,Franco Zeffirelli,1995
-17241,Parking,Mong-Hong Chung,2008
-17238,Parque Vía,Enrique Rivero,2008
 16707,Le Volcan,Ottokar Runze,1998
 17075,Year of the devil,Petr Zelenka,2001
 16708,Yoyes,Helena Taberna,2000
@@ -5349,7 +5445,6 @@ ID,Title,Directors,Year
 16443,Haramuya,Drissa Toure,1995
 16687,Dolce Farniente,Nae Caranfil,1999
 17045,Georgica,Sulev Keedus,1998
-16551,Ça ne se refuse pas,Eric Woreth,1997
 16555,Betelnut beauty,Cheng-Sheng Lin,2000
 16690,L'Eté d'Olga,Nina Grosse,2001
 16580,L'Ange de l'épaule droite,Djamshed Usmonov,2002
@@ -5360,21 +5455,35 @@ ID,Title,Directors,Year
 16974,Avant que j'oublie,Jacques Nolot,2006
 16882,The Sea,Baltasar Kormákur,2001
 16950,Batalla en el cielo (Bataille dans le ciel),Carlos Reygadas,2004
-17134,The Chaser,"Hong-jin Na,Na Hong-jin",2007
 16501,Nag la bombe,Jean-Louis Milesi,1999
 16677,Une vie de prince,Daniel Cohen,1998
 16899,Chronique d'une disparition,Elia Suleiman,1996
 16568,Le Pornographe,Bertrand Bonello,2000
 17010,Hanussen,István Szabó,1988
 16512,Rouge midi,Robert Guédiguian,1984
-16919,Opera Jawa,Garin Nugroho,2006
 16847,Le Repas du dragon,Jan Schütte,1987
 16550,Bella ciao,Stéphane Giusti,2000
 16698,Metroland,Philip Saville,1997
+16827,De l'eau tiède sous un pont rouge,Shôhei Imamura,2000
 17229,Louise-Michel,"Gustave Kervern,Benoît Delépine",2007
+17125,La Famille Wolberg,Axelle Ropert,2008
+16816,L'Ours rouge,Israel Adrián Caetano,2001
+16685,Clara,Helma Sanders-Brahms,2007
+17134,The Chaser,"Hong-jin Na,Na Hong-jin",2007
+17317,Il Maestro,Marion Hänsel,1989
+17335,Sale destin !,Sylvain Madigan,1986
+17337,TGV,Moussa Touré,1997
+16551,Ça ne se refuse pas,Eric Woreth,1997
+17095,Electroménager,Sylvain Monod,2000
+17308,La Capture,Carole Laure,2006
+17320,Jane Eyre,Franco Zeffirelli,1995
+17241,Parking,Mong-Hong Chung,2008
+17284,Sombre,Philippe Grandrieux,1998
+16919,Opera Jawa,Garin Nugroho,2006
+17238,Parque Vía,Enrique Rivero,2008
 42179,Le Village des ombres,Fouad Benhammou,2010
-32973,Voodoo Man,William Beaudine,1944
 55372,De bon matin,Jean-Marc Moutout,2011
+32973,Voodoo Man,William Beaudine,1944
 54057749,Les bouchers verts,Anders Thomas Jensen,2004
 52821,Audition,Takashi Miike,1999
 45133,L'Enquête est close,Jacques Tourneur,1951
@@ -5411,7 +5520,6 @@ ID,Title,Directors,Year
 54073269,Cherchez la femme,Sou Abadi,2017
 54076644,Alligator II : La Mutation,Jon Hess,1991
 26430,"Roubaix, une lumière",Arnaud Desplechin,2018
-22318,Sumuru la cité sans hommes,Jesús Franco,1969
 24590,Manhattan Stories,Dustin Guy Defa,2016
 22985,Orpheline,Arnaud des Pallières,2015
 30012,Le Conte de la Princesse Kaguya,Isao Takahata,2013
@@ -5424,34 +5532,30 @@ ID,Title,Directors,Year
 26623,Fahim,Pierre-François Martin-Laval,2019
 26673,Adults in the room,Constantin Costa-Gavras,2019
 26423,Late Night,Nisha Ganatra,2019
-25390,Asako I & II,Ryūsuke Hamaguchi,2018
 26370,Nuits magiques,Paolo Virzì,2018
 22391,Mort ou vif... de préférence mort,Duccio Tessari,1969
 29539,La Troisième femme,Ash Mayfair,2019
-29456,Les Meilleures intentions,Ana García Blaya,2019
 29437,Lucky Strike,Kim Yong-hoon,2020
 29577,Le Coupable idéal,Mikael Hafstrom,2019
 31143,L'Étreinte,Ludovic Bergery,2020
+23354,Pop Aye,Kirsten Tan,2017
 24267,Le Rire de Madame Lin,Tao Zhang,2016
 26390,Mon frère,Julien Abraham,2019
 29132,Abraham Lincoln,David Wark Griffith,1930
-23354,Pop Aye,Kirsten Tan,2017
-22587,Le Voyage de Monsieur Crulic,Anca Damian,2011
-30011,Le Vent se lève,Hayao Miyazaki,2013
 28338,Le Chêne,Lucian Pintilie,1992
+22587,Le Voyage de Monsieur Crulic,Anca Damian,2011
 28540,Le Vent,Victor Sjöström 	,1928
+30011,Le Vent se lève,Hayao Miyazaki,2013
 28576,Au bord de la mer bleue,Boris Barnet,1935
 26506,Jeanne,Bruno Dumont,2019
-29646,Été 85,François Ozon,2020
+22318,Sumuru la cité sans hommes,Jesús Franco,1969
 24190,Le Lion est mort ce soir,Nobuhiro Suwa,2017
 26995,"First Love, le dernier yakuza",Takashi Miike,2019
 24002,Le Semeur,Marine Francen,2017
 25944,L'Adieu à la nuit,André Téchiné,2018
-25452,Ayka,Sergei Dvortsevoy,2018
 24240,La Surface de réparation,Christophe Regin,2017
 31914,La leçon d'allemand,Christian Schwochow,2021
 27220,Wet Season,Anthony Chen,2019
-26896,Nina Wu,Midi Z,2019
 27009,L'État sauvage,David Perrault,2019
 27169,L'Autre,Charlotte Dauphin,2019
 27483,Chained,Yaron Shani,2019
@@ -5461,11 +5565,10 @@ ID,Title,Directors,Year
 28268,Susana la perverse,Luis Buñuel,1950
 29526,Canción sin nombre,Melina León,2019
 24467,Madame Hyde,Serge Bozon,2016
-24998,Invasion,Kiyoshi Kurosawa,2017
 26485,Bacurau,"Juliano Dornelles,Kleber Mendonça Filho",2019
 26484,Portrait de la jeune fille en feu,Céline Sciamma,2019
+25452,Ayka,Sergei Dvortsevoy,2018
 29994,"Yalda, la nuit du pardon",Massoud Bakhshi,2019
-29519,Le Sel des larmes,Philippe Garrel,2020
 23710,Taxi Sofia,Stephan Komandarev,2016
 23184,Glory,"Kristina Grozeva,Petar Valchanov",2016
 23041,Le Père Noël a disparu,William Dear,2000
@@ -5483,11 +5586,12 @@ ID,Title,Directors,Year
 24447,La prière,Cédric Kahn,2017
 28542,La Jeune fille au carton à chapeau,Boris Barnet,1927
 30507,Satan,Wallace Worsley,1920
-25323,High Life,Claire Denis,2015
+29519,Le Sel des larmes,Philippe Garrel,2020
 26298,Passion,Ryūsuke Hamaguchi,2008
 25028,Climax,Gaspar Noé,2018
 23707,Nos années folles,André Téchiné,2016
 22849,Jazmin et Toussaint,Claudia Sainte-Luce,2016
+25323,High Life,Claire Denis,2015
 25620,Comme si de rien n'était,Eva Trobisch,2018
 24478,Candelaria,Jhonny Hendrix Hinestroza,2017
 29554,Thee Wreckers Tetralogy,Rosto,2020
@@ -5497,18 +5601,18 @@ ID,Title,Directors,Year
 25007,Fortuna,Germinal Roaux,2017
 26740,It Must Be Heaven,Elia Suleiman,2019
 28339,Un été inoubliable,Lucian Pintilie,1994
-22389,Dans la forêt,Gilles Marchand,2015
 31347,Je pense à vous,Pascal Bonitzer,2006
 30746,Le Prince,Sebastián Muñoz,2019
 32787,Viens je t'emmène,Alain Guiraudie,2020
-24512,Luna,Elsa Diringer,2017
 28918,Main basse sur la ville,Francesco Rosi,1963
 26557,Au nom de la terre,Edouard Bergeon,2019
 26386,Tu mérites un amour,Hafsia Herzi,2019
-23202,Creepy,Kiyoshi Kurosawa,2016
 29651,Le Colocataire,Marco Berger,2019
-30010,La Colline aux coquelicots,Goro Miyazaki,2011
 32382,Chère Léa,Jérôme Bonnell,2019
+23202,Creepy,Kiyoshi Kurosawa,2016
+24512,Luna,Elsa Diringer,2017
+22389,Dans la forêt,Gilles Marchand,2015
+30010,La Colline aux coquelicots,Goro Miyazaki,2011
 26201,Give Me Liberty,Kirill Mikhanovsky,2019
 25563,Bêtes blondes,"Maxime Matray,Alexia Walther",2018
 29613,Voir le jour,Marion Laine,2020
@@ -5518,7 +5622,6 @@ ID,Title,Directors,Year
 26393,Thalasso,Guillaume Nicloux,2019
 26305,Roads,Sebastian Schipper,2018
 26815,Les Éblouis,Sarah Suco,2019
-23228,Bonheur académie,Alain Della Negra,2015
 25030,Le Vent tourne,Bettina Oberli,2018
 26725,Un Divan à Tunis,Manele Labidi,2019
 29649,Né à Jérusalem (et toujours vivant),"Yossi Atia,David Ofek",2019
@@ -5528,5 +5631,5 @@ ID,Title,Directors,Year
 26366,Perdrix,Erwan Le Duc,2018
 30013,Souvenirs de Marnie,Hiromasa Yonebayashi,2014
 27076,Séjour dans les monts Fuchun,Gu Xiaogang,2019
-26486,Un Monde plus grand,Fabienne Berthaud,2019
 22680,Corporate,Nicolas Silhol,2017
+26486,Un Monde plus grand,Fabienne Berthaud,2019
